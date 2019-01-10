@@ -1,0 +1,2781 @@
+{Error: <a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\exp1.m',2,1)">File: exp1.m Line: 2 Column: 1
+</a>At least one END is missing: the statement may begin here.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', 'C:\Users\toukir\Dropbox\b6\experiments.m', 40)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\experiments.m',40,0)">line 40</a>)
+    exp1;
+} 
+opentoline('C:\Users\toukir\Dropbox\b6\exp1.m',2,1)
+experiments
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1×342 cell}
+    problem: [1×1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 10000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+ME = 
+
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'EMLRT:runTime:UserInterrupt'
+       message: 'Interrupt.'
+         cause: {}
+         stack: [3×1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: ''
+    name: 'asyncEvolution2_mex'
+    line: 0
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'exp1.m'
+    name: 'exp1'
+    line: 60
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'experiments.m'
+    name: 'experiments'
+    line: 40
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+[Warning: Ignoring extra legend entries.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>set_children_and_strings', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 674)" style="font-weight:bold">legend>set_children_and_strings</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',674,0)">line 674</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>make_legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 346)" style="font-weight:bold">legend>make_legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',346,0)">line 346</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 294)" style="font-weight:bold">legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',294,0)">line 294</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', 'C:\Users\toukir\Dropbox\b6\experiments.m', 54)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\experiments.m',54,0)">line 54</a>)] 
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1×342 cell}
+    problem: [1×1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 10000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+[Warning: Ignoring extra legend entries.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>set_children_and_strings', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 674)" style="font-weight:bold">legend>set_children_and_strings</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',674,0)">line 674</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>make_legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 346)" style="font-weight:bold">legend>make_legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',346,0)">line 346</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 294)" style="font-weight:bold">legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',294,0)">line 294</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', 'C:\Users\toukir\Dropbox\b6\experiments.m', 54)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\experiments.m',54,0)">line 54</a>)] 
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1×342 cell}
+    problem: [1×1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 10000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+[Warning: Ignoring extra legend entries.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>set_children_and_strings', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 674)" style="font-weight:bold">legend>set_children_and_strings</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',674,0)">line 674</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>make_legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 346)" style="font-weight:bold">legend>make_legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',346,0)">line 346</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 294)" style="font-weight:bold">legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',294,0)">line 294</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', 'C:\Users\toukir\Dropbox\b6\experiments.m', 54)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\experiments.m',54,0)">line 54</a>)] 
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1×342 cell}
+    problem: [1×1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1×342 cell}
+    problem: [1×1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+[Warning: Ignoring extra legend entries.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>set_children_and_strings', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 674)" style="font-weight:bold">legend>set_children_and_strings</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',674,0)">line 674</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>make_legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 346)" style="font-weight:bold">legend>make_legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',346,0)">line 346</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 294)" style="font-weight:bold">legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',294,0)">line 294</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', 'C:\Users\toukir\Dropbox\b6\experiments.m', 54)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\experiments.m',54,0)">line 54</a>)] 
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1×342 cell}
+    problem: [1×1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+[Warning: Ignoring extra legend entries.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>set_children_and_strings', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 674)" style="font-weight:bold">legend>set_children_and_strings</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',674,0)">line 674</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>make_legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 346)" style="font-weight:bold">legend>make_legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',346,0)">line 346</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 294)" style="font-weight:bold">legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',294,0)">line 294</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', 'C:\Users\toukir\Dropbox\b6\experiments.m', 54)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\experiments.m',54,0)">line 54</a>)] 
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1×342 cell}
+    problem: [1×1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+[Warning: Ignoring extra legend entries.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>set_children_and_strings', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 674)" style="font-weight:bold">legend>set_children_and_strings</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',674,0)">line 674</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>make_legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 346)" style="font-weight:bold">legend>make_legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',346,0)">line 346</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 294)" style="font-weight:bold">legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',294,0)">line 294</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', 'C:\Users\toukir\Dropbox\b6\experiments.m', 54)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\experiments.m',54,0)">line 54</a>)] 
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1×342 cell}
+    problem: [1×1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+[Warning: Ignoring extra legend entries.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>set_children_and_strings', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 674)" style="font-weight:bold">legend>set_children_and_strings</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',674,0)">line 674</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>make_legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 346)" style="font-weight:bold">legend>make_legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',346,0)">line 346</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 294)" style="font-weight:bold">legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',294,0)">line 294</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', 'C:\Users\toukir\Dropbox\b6\experiments.m', 54)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\experiments.m',54,0)">line 54</a>)] 
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1×342 cell}
+    problem: [1×1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+ME = 
+
+  <a href="matlab:helpPopup ParallelException" style="font-weight:bold">ParallelException</a> with properties:
+
+     identifier: 'MATLAB:parfor:UndefinedFunctionOnWorker'
+        message: 'An UndefinedFunction error was thrown on the workers for 'k'.  This might be because the file containing 'k' is not accessible on the workers.  Use addAttachedFiles(pool, files) to specify the required files to be attached.  See the documentation for 'parallel.Pool/addAttachedFiles' for more details.'
+          cause: {[1×1 MException]}
+    remotecause: {[1×1 MException]}
+          stack: [2×1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'C:\Users\toukir\Dropbox\b6\exp1.m'
+    name: 'exp1'
+    line: 58
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'C:\Users\toukir\Dropbox\b6\experiments.m'
+    name: 'experiments'
+    line: 40
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+[Warning: Ignoring extra legend entries.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>set_children_and_strings', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 674)" style="font-weight:bold">legend>set_children_and_strings</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',674,0)">line 674</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>make_legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 346)" style="font-weight:bold">legend>make_legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',346,0)">line 346</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 294)" style="font-weight:bold">legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',294,0)">line 294</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', 'C:\Users\toukir\Dropbox\b6\experiments.m', 54)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\experiments.m',54,0)">line 54</a>)] 
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1×342 cell}
+    problem: [1×1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+[Warning: Ignoring extra legend entries.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>set_children_and_strings', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 674)" style="font-weight:bold">legend>set_children_and_strings</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',674,0)">line 674</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>make_legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 346)" style="font-weight:bold">legend>make_legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',346,0)">line 346</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 294)" style="font-weight:bold">legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',294,0)">line 294</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', 'C:\Users\toukir\Dropbox\b6\experiments.m', 54)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\experiments.m',54,0)">line 54</a>)] 
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1×342 cell}
+    problem: [1×1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1×342 cell}
+    problem: [1×1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+[Warning: Ignoring extra legend entries.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>set_children_and_strings', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 674)" style="font-weight:bold">legend>set_children_and_strings</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',674,0)">line 674</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>make_legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 346)" style="font-weight:bold">legend>make_legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',346,0)">line 346</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p', 294)" style="font-weight:bold">legend</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\scribe\legend.p',294,0)">line 294</a>)
+  In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', 'C:\Users\toukir\Dropbox\b6\experiments.m', 54)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\experiments.m',54,0)">line 54</a>)] 
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1×342 cell}
+    problem: [1×1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1Ã—342 cell}
+    problem: [1Ã—1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [1Ã—7 double]
+                 geneMin: [1Ã—7 double]
+        energyMultiplier: 5
+           mutationRate1: [1Ã—7 double]
+           mutationRate2: [1Ã—7 double]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [1Ã—7 double]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+ME = 
+
+  <a href="matlab:helpPopup ParallelException" style="font-weight:bold">ParallelException</a> with properties:
+
+     identifier: 'MATLAB:Deserializâ€¦'
+        message: 'Out of Memory durâ€¦'
+          cause: {}
+    remotecause: {[1Ã—1 MException]}
+          stack: [2Ã—1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: '/home/toukir/Dropbox/b6/â€¦'
+    name: 'exp1'
+    line: 58
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: '/home/toukir/Dropbox/b6/â€¦'
+    name: 'experiments'
+    line: 40
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1Ã—5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+{Operation terminated by user during
+<a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', '/home/toukir/Dropbox/b6/experiments.m', 47)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('/home/toukir/Dropbox/b6/experiments.m',47,0)">line 47</a>)
+} 
+experiments
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1Ã—342 cell}
+    problem: [1Ã—1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [1Ã—7 double]
+                 geneMin: [1Ã—7 double]
+        energyMultiplier: 5
+           mutationRate1: [1Ã—7 double]
+           mutationRate2: [1Ã—7 double]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [1Ã—7 double]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+ME = 
+
+  <a href="matlab:helpPopup ParallelException" style="font-weight:bold">ParallelException</a> with properties:
+
+     identifier: 'MATLAB:TooManyInpâ€¦'
+        message: 'Too many input arâ€¦'
+          cause: {}
+    remotecause: {[1Ã—1 MException]}
+          stack: [2Ã—1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: '/home/toukir/Dropbox/b6/â€¦'
+    name: 'exp1'
+    line: 58
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: '/home/toukir/Dropbox/b6/â€¦'
+    name: 'experiments'
+    line: 40
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1Ã—5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1Ã—342 cell}
+    problem: [1Ã—1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [1Ã—7 double]
+                 geneMin: [1Ã—7 double]
+        energyMultiplier: 5
+           mutationRate1: [1Ã—7 double]
+           mutationRate2: [1Ã—7 double]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [1Ã—7 double]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 26.71 s
+expanses = 
+ 4.798e+04
+
+Spotlight on gene : 
+
+ans =
+
+  Columns 1 through 3
+
+    3.4002    4.3141    9.1065
+
+  Columns 4 through 6
+
+    0.1818    0.2638    0.1455
+
+  Column 7
+
+    0.1361
+
+Spotlight on gene : 
+  Columns 1 through 3
+
+    3.4002    4.3141    9.1065
+
+  Columns 4 through 6
+
+    0.1818    0.2638    0.1455
+
+  Column 7
+
+    0.1361
+
+Spotlight on gene : 
+  Columns 1 through 3
+
+    3.2641    2.7603    6.7970
+
+  Columns 4 through 6
+
+    0.6551    0.1626    0.1190
+
+  Column 7
+
+    0.4984
+
+Final results from Experiment 1
+Total experiment time 26.73 s
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     0
+
+
+gSuboptByFinalTrialCount =
+
+     0
+
+
+gExpanse =
+
+       47980
+
+
+gGene =
+
+  1Ã—5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+  Columns 1 through 4
+
+    [1Ã—1 struct]    []    []    []
+
+  Column 5
+
+    []
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Vectors must be the same length.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', '/home/toukir/Dropbox/b6/experiments.m', 47)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('/home/toukir/Dropbox/b6/experiments.m',47,0)">line 47</a>)
+    plot(gExpanse,gSuboptByNumTrial,'bo');} 
+[subopts1(i),maxSubopt1(i),sT1(i),sTH1(i)] =[0,0,0,0]
+{Insufficient number of outputs from
+right hand side of equal sign to
+satisfy assignment.
+} 
+[subopts1(i),maxSubopt1(i),sT1(i),sTH1(i)] =0,0,0,0
+{Insufficient number of outputs from
+right hand side of equal sign to
+satisfy assignment.
+} 
+subopts1(i),maxSubopt1(i),sT1(i),sTH1(i) =0,0,0,0
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+sTH1 =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+
+ans =
+
+     0
+
+a,b,c,d =0
+{Undefined function or variable 'a'.
+} 
+a,b,c,d =0,0,0,0
+{Undefined function or variable 'a'.
+} 
+a,b,c,d =[0,0,0,0]
+{Undefined function or variable 'a'.
+} 
+a =3
+
+a =
+
+     3
+
+a,b,c,d =[0,0,0,0]
+
+a =
+
+     3
+
+{Undefined function or variable 'b'.
+} 
+a
+
+a =
+
+     3
+
+b =3
+
+b =
+
+     3
+
+c =4
+
+c =
+
+     4
+
+d =5
+
+d =
+
+     5
+
+a,b,c,d =[0,0,0,0]
+
+a =
+
+     3
+
+
+b =
+
+     3
+
+
+c =
+
+     4
+
+
+d =
+
+     0     0     0     0
+
+experiments
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1Ã—342 cell}
+    problem: [1Ã—1710 struct]
+
+{Error: <a href="matlab: opentoline('/home/toukir/Dropbox/b6/exp1.m',89,54)">File: exp1.m Line: 89 Column: 54
+</a>Unbalanced or unexpected parenthesis or
+bracket.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', '/home/toukir/Dropbox/b6/experiments.m', 40)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('/home/toukir/Dropbox/b6/experiments.m',40,0)">line 40</a>)
+    exp1;
+} 
+opentoline('/home/toukir/Dropbox/b6/exp1.m',89,54)
+experiments
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1Ã—342 cell}
+    problem: [1Ã—1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [1Ã—7 double]
+                 geneMin: [1Ã—7 double]
+        energyMultiplier: 5
+           mutationRate1: [1Ã—7 double]
+           mutationRate2: [1Ã—7 double]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [1Ã—7 double]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 2.52 s
+expanses = 
+ 5.132e+05
+
+Spotlight on gene : 
+
+ME = 
+
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:nonExistentâ€¦'
+       message: 'Reference to non-eâ€¦'
+         cause: {}
+         stack: [2Ã—1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: '/home/toukir/Dropbox/b6/â€¦'
+    name: 'exp1'
+    line: 88
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: '/home/toukir/Dropbox/b6/â€¦'
+    name: 'experiments'
+    line: 40
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1Ã—5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1Ã—342 cell}
+    problem: [1Ã—1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [1Ã—7 double]
+                 geneMin: [1Ã—7 double]
+        energyMultiplier: 5
+           mutationRate1: [1Ã—7 double]
+           mutationRate2: [1Ã—7 double]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [1Ã—7 double]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 18.87 s
+expanses = 
+ 1.001e+06
+
+Spotlight on gene : 
+
+ME = 
+
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:nonExistentâ€¦'
+       message: 'Reference to non-eâ€¦'
+         cause: {}
+         stack: [2Ã—1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: '/home/toukir/Dropbox/b6/â€¦'
+    name: 'exp1'
+    line: 88
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: '/home/toukir/Dropbox/b6/â€¦'
+    name: 'experiments'
+    line: 40
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1Ã—5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [1Ã—7 double]
+                 geneMin: [1Ã—7 double]
+        energyMultiplier: 5
+           mutationRate1: [1Ã—7 double]
+           mutationRate2: [1Ã—7 double]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [1Ã—7 double]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 1.54 s
+expanses = 
+ 3.999e+05
+
+Spotlight on gene : 
+
+ME = 
+
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:nonExistentâ€¦'
+       message: 'Reference to non-eâ€¦'
+         cause: {}
+         stack: [2Ã—1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: '/home/toukir/Dropbox/b6/â€¦'
+    name: 'exp1'
+    line: 88
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: '/home/toukir/Dropbox/b6/â€¦'
+    name: 'experiments'
+    line: 40
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1Ã—5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [1Ã—7 double]
+                 geneMin: [1Ã—7 double]
+        energyMultiplier: 5
+           mutationRate1: [1Ã—7 double]
+           mutationRate2: [1Ã—7 double]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [1Ã—7 double]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 1.54 s
+expanses = 
+ 3.445e+05
+
+Spotlight on gene : 
+
+ME = 
+
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:nonExistentâ€¦'
+       message: 'Reference to non-eâ€¦'
+         cause: {}
+         stack: [2Ã—1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: '/home/toukir/Dropbox/b6/â€¦'
+    name: 'exp1'
+    line: 88
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: '/home/toukir/Dropbox/b6/â€¦'
+    name: 'experiments'
+    line: 40
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1Ã—5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [1Ã—7 double]
+                 geneMin: [1Ã—7 double]
+        energyMultiplier: 5
+           mutationRate1: [1Ã—7 double]
+           mutationRate2: [1Ã—7 double]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [1Ã—7 double]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 2.45 s
+expanses = 
+ 6.780e+05
+
+Spotlight on gene : 
+
+ME = 
+
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:nonExistentâ€¦'
+       message: 'Reference to non-eâ€¦'
+         cause: {}
+         stack: [2Ã—1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: '/home/toukir/Dropbox/b6/â€¦'
+    name: 'exp1'
+    line: 88
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: '/home/toukir/Dropbox/b6/â€¦'
+    name: 'experiments'
+    line: 40
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1Ã—5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [1Ã—7 double]
+                 geneMin: [1Ã—7 double]
+        energyMultiplier: 5
+           mutationRate1: [1Ã—7 double]
+           mutationRate2: [1Ã—7 double]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [1Ã—7 double]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 4.10 s
+expanses = 
+ 2.977e+06
+
+Spotlight on gene : 
+
+ME = 
+
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'MATLAB:nonExistentâ€¦'
+       message: 'Reference to non-eâ€¦'
+         cause: {}
+         stack: [2Ã—1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: '/home/toukir/Dropbox/b6/â€¦'
+    name: 'exp1'
+    line: 88
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: '/home/toukir/Dropbox/b6/â€¦'
+    name: 'experiments'
+    line: 40
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1Ã—5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [1Ã—7 double]
+                 geneMin: [1Ã—7 double]
+        energyMultiplier: 5
+           mutationRate1: [1Ã—7 double]
+           mutationRate2: [1Ã—7 double]
+               eraLength: 100000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [1Ã—7 double]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+ME = 
+
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'EMLRT:runTime:UserInterrupt'
+       message: 'Interrupt.'
+         cause: {}
+         stack: [3Ã—1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: ''
+    name: 'asyncEvolution2_mex'
+    line: 0
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'exp1.m'
+    name: 'exp1'
+    line: 60
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'experiments.m'
+    name: 'experiments'
+    line: 40
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1Ã—5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [1Ã—7 double]
+           mutationRate2: [1Ã—7 double]
+               eraLength: 100000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [1Ã—7 double]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+ME = 
+
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'EMLRT:runTime:UserInterrupt'
+       message: 'Interrupt.'
+         cause: {}
+         stack: [3Ã—1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: ''
+    name: 'asyncEvolution2_mex'
+    line: 0
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'exp1.m'
+    name: 'exp1'
+    line: 60
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'experiments.m'
+    name: 'experiments'
+    line: 40
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1Ã—5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [1Ã—7 double]
+           mutationRate2: [1Ã—7 double]
+               eraLength: 100000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [1Ã—7 double]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+ME = 
+
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'EMLRT:runTime:UserInterrupt'
+       message: 'Interrupt.'
+         cause: {}
+         stack: [3Ã—1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: ''
+    name: 'asyncEvolution2_mex'
+    line: 0
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'exp1.m'
+    name: 'exp1'
+    line: 60
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'experiments.m'
+    name: 'experiments'
+    line: 40
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1Ã—5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.graphics.axis.Axes/get')" style="font-weight:bold">matlab.graphics.axis.Axes/get</a>
+Operation terminated by user
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ylabel', '/usr/local/MATLAB/R2016b/toolbox/matlab/graph2d/ylabel.m', 39)" style="font-weight:bold">ylabel</a> (<a href="matlab: opentoline('/usr/local/MATLAB/R2016b/toolbox/matlab/graph2d/ylabel.m',39,0)">line 39</a>)
+    h = get(ax,'YLabel');
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', '/home/toukir/Dropbox/b6/experiments.m', 53)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('/home/toukir/Dropbox/b6/experiments.m',53,0)">line 53</a>)
+    ylabel('Suboptimality');
+} 
+experiments
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1Ã—342 cell}
+    problem: [1Ã—1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [1Ã—7 double]
+                 geneMin: [1Ã—7 double]
+        energyMultiplier: 5
+           mutationRate1: [1Ã—7 double]
+           mutationRate2: [1Ã—7 double]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [1Ã—7 double]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1×342 cell}
+    problem: [1×1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 1.40 s
+expanses = 
+ 4.798e+04
+
+Spotlight on gene : 
+evaluating on 1710 problems
+time taken for evaluation 9.50 s 
+mean Subopt: 24.018
+numSolved: 1710 / 1710
+solvedMeanSubopt: 24.018
+Spotlight on gene : 
+    3.4002    4.3141    9.1065    0.1818    0.2638    0.1455    0.1361
+
+evaluating on 1710 problems
+time taken for evaluation 7.48 s 
+mean Subopt: 24.070
+numSolved: 1710 / 1710
+solvedMeanSubopt: 24.070
+Spotlight on gene : 
+    3.2641    2.7603    6.7970    0.6551    0.1626    0.1190    0.4984
+
+evaluating on 1710 problems
+time taken for evaluation 6.53 s 
+mean Subopt: 16.574
+numSolved: 1710 / 1710
+solvedMeanSubopt: 16.574
+Final results from Experiment 1
+Total experiment time 24.94 s
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   24.0701
+
+
+gSuboptByFinalTrialCount =
+
+   16.5739
+
+
+gExpanse =
+
+       47980
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    []    []    []    []
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Vectors must be the same length.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', 'C:\Users\toukir\Dropbox\b6\experiments.m', 47)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\experiments.m',47,0)">line 47</a>)
+    plot(gExpanse,gSuboptByNumTrial,'bo');
+} 
+opentoline('C:\Users\toukir\Dropbox\b6\experiments.m',47,0)
+experiments
+
+hmS = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       maps: {1×342 cell}
+    problem: [1×1710 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 1.35 s
+expanses = 
+ 4.581e+04
+
+Spotlight on gene : 
+evaluating on 1710 problems
+time taken for evaluation 10.04 s 
+mean Subopt: 29.122
+numSolved: 1710 / 1710
+solvedMeanSubopt: 29.122
+Spotlight on gene : 
+    1.4582    2.5744    9.3907    0.3266    0.9550    0.3539    0.2339
+
+evaluating on 1710 problems
+time taken for evaluation 5.99 s 
+mean Subopt: 13.123
+numSolved: 1710 / 1710
+solvedMeanSubopt: 13.123
+Spotlight on gene : 
+    3.0118    0.3002    6.1091    0.6928    0.1319    0.8356    0.5378
+
+evaluating on 1710 problems
+time taken for evaluation 7.82 s 
+mean Subopt: 16.670
+numSolved: 1710 / 1710
+solvedMeanSubopt: 16.670
+Final results from Experiment 1
+Total experiment time 25.24 s
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   13.1233
+
+
+gSuboptByFinalTrialCount =
+
+   16.6703
+
+
+gExpanse =
+
+       45805
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    []    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 1.17 s
+expanses = 
+ 4.798e+04
+
+Spotlight on gene : 
+evaluating on 1710 problems
+time taken for evaluation 6.04 s 
+mean Subopt: 13.163
+numSolved: 1710 / 1710
+solvedMeanSubopt: 13.163
+Spotlight on gene : 
+    3.3005    0.3178    9.8596    0.8635    0.8055    0.8481    0.1772
+
+evaluating on 1710 problems
+time taken for evaluation 6.21 s 
+mean Subopt: 12.670
+numSolved: 1710 / 1710
+solvedMeanSubopt: 12.670
+Spotlight on gene : 
+    2.9544    8.2938    2.3493    0.5669    0.6313    0.7539    0.4464
+
+evaluating on 1710 problems
+time taken for evaluation 6.48 s 
+mean Subopt: 12.352
+numSolved: 1710 / 1710
+solvedMeanSubopt: 12.352
+Final results from Experiment 1
+Total experiment time 19.93 s
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   13.1233   12.6699
+
+
+gSuboptByFinalTrialCount =
+
+   16.6703   12.3515
+
+
+gExpanse =
+
+       45805       47980
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 1.76 s
+expanses = 
+ 4.798e+04
+
+Spotlight on gene : 
+evaluating on 1710 problems
+time taken for evaluation 6.20 s 
+mean Subopt: 12.505
+numSolved: 1710 / 1710
+solvedMeanSubopt: 12.505
+Spotlight on gene : 
+    1.2196    7.0810    2.2942    0.9477    0.9627    0.8458    0.2535
+
+evaluating on 1710 problems
+time taken for evaluation 6.18 s 
+mean Subopt: 12.505
+numSolved: 1710 / 1710
+solvedMeanSubopt: 12.505
+Spotlight on gene : 
+    1.2196    7.0810    2.2942    0.9477    0.9627    0.8458    0.2535
+
+evaluating on 1710 problems
+time taken for evaluation 6.23 s 
+mean Subopt: 12.505
+numSolved: 1710 / 1710
+solvedMeanSubopt: 12.505
+Final results from Experiment 1
+Total experiment time 20.40 s
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   13.1233   12.6699   12.5048
+
+
+gSuboptByFinalTrialCount =
+
+   16.6703   12.3515   12.5048
+
+
+gExpanse =
+
+       45805       47980       47975
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    [1×1 struct]    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 1.47 s
+expanses = 
+ 4.798e+04
+
+Spotlight on gene : 
+evaluating on 1710 problems
+time taken for evaluation 7.98 s 
+mean Subopt: 18.035
+numSolved: 1710 / 1710
+solvedMeanSubopt: 18.035
+Spotlight on gene : 
+    2.9931    9.8495    7.5823    0.1169    0.5015    0.9995    0.3751
+
+evaluating on 1710 problems
+time taken for evaluation 6.36 s 
+mean Subopt: 13.381
+numSolved: 1710 / 1710
+solvedMeanSubopt: 13.381
+Spotlight on gene : 
+    2.9931    9.8495    7.5823    0.1169    0.5015    0.9995    0.3751
+
+evaluating on 1710 problems
+time taken for evaluation 6.64 s 
+mean Subopt: 13.381
+numSolved: 1710 / 1710
+solvedMeanSubopt: 13.381
+Final results from Experiment 1
+Total experiment time 22.48 s
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   13.1233   12.6699   12.5048   13.3810
+
+
+gSuboptByFinalTrialCount =
+
+   16.6703   12.3515   12.5048   13.3810
+
+
+gExpanse =
+
+       45805       47980       47975       47980
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    [1×1 struct]    [1×1 struct]    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 1.15 s
+expanses = 
+ 4.798e+04
+
+Spotlight on gene : 
+evaluating on 1710 problems
+time taken for evaluation 6.29 s 
+mean Subopt: 13.097
+numSolved: 1710 / 1710
+solvedMeanSubopt: 13.097
+Spotlight on gene : 
+    1.0991    6.5178    2.4295    0.3730    0.7186    0.3550    0.3934
+
+evaluating on 1710 problems
+time taken for evaluation 5.93 s 
+mean Subopt: 12.651
+numSolved: 1710 / 1710
+solvedMeanSubopt: 12.651
+Spotlight on gene : 
+    1.7461    3.3620    3.3929    0.4572    0.9597    0.5476    0.4985
+
+evaluating on 1710 problems
+time taken for evaluation 6.67 s 
+mean Subopt: 13.841
+numSolved: 1710 / 1710
+solvedMeanSubopt: 13.841
+Final results from Experiment 1
+Total experiment time 20.07 s
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   13.1233   12.6699   12.5048   13.3810   12.6511
+
+
+gSuboptByFinalTrialCount =
+
+   16.6703   12.3515   12.5048   13.3810   13.8410
+
+
+gExpanse =
+
+       45805       47980       47975       47980       47980
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    [1×1 struct]    [1×1 struct]    [1×1 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+ME = 
+
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'EMLRT:runTime:UserInterrupt'
+       message: 'Interrupt.'
+         cause: {}
+         stack: [3×1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: ''
+    name: 'asyncEvolution2_mex'
+    line: 0
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'exp1.m'
+    name: 'exp1'
+    line: 60
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'experiments.m'
+    name: 'experiments'
+    line: 40
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+ME = 
+
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'EMLRT:runTime:UserInterrupt'
+       message: 'Interrupt.'
+         cause: {}
+         stack: [3×1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: ''
+    name: 'asyncEvolution2_mex'
+    line: 0
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'exp1.m'
+    name: 'exp1'
+    line: 60
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'experiments.m'
+    name: 'experiments'
+    line: 40
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+

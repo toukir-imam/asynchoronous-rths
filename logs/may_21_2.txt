@@ -1,0 +1,2196 @@
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.06 0.2 0.2 0.02 0.02 0.02 0.02]
+           mutationRate2: [0.02 0.066667 0.066667 0.0066667 0.0066667 0.0066667 0.0066667]
+               eraLength: 10000000
+          difficultyGrad: 0.3
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.279]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 4.8 h
+expanses = 
+ 2.440e+09
+
+Spotlight on gene : 
+
+ans =
+
+       3.0256       8.9499       2.4352      0.85575      0.59301      0.89658      0.69374
+
+evaluating on 123325 problems
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 4 workers.
+time taken for evaluation 16.3 m 
+mean Subopt: 21.032
+numSolved: 123325 / 123325
+solvedMeanSubopt: 21.032
+Spotlight on gene : 
+       2.7801       7.0344       9.0371            1      0.22906      0.60805      0.17743
+
+evaluating on 123325 problems
+time taken for evaluation 21.0 m 
+mean Subopt: 26.558
+numSolved: 123325 / 123325
+solvedMeanSubopt: 26.558
+Spotlight on gene : 
+       3.0256       8.9499       2.4352      0.85575      0.59301      0.89658      0.69374
+
+evaluating on 123325 problems
+time taken for evaluation 16.0 m 
+mean Subopt: 21.246
+numSolved: 123325 / 123325
+solvedMeanSubopt: 21.246
+Final results from Experiment 1
+Total experiment time 5.7 h
+gSuboptByNumTrial =
+
+       21.032
+
+
+gSuboptByFoodValue =
+
+       26.558
+
+
+gSuboptByFinalTrialCount =
+
+       21.246
+
+
+gExpanse =
+
+   2.4401e+09
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    []    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.06 0.2 0.2 0.02 0.02 0.02 0.02]
+           mutationRate2: [0.02 0.066667 0.066667 0.0066667 0.0066667 0.0066667 0.0066667]
+               eraLength: 10000000
+          difficultyGrad: 0.3
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.279]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 4.8 h
+expanses = 
+ 2.434e+09
+
+Spotlight on gene : 
+
+ans =
+
+       2.2426            0        8.178     0.035518      0.88786      0.18049      0.69979
+
+evaluating on 123325 problems
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 4 workers.
+time taken for evaluation 14.0 m 
+mean Subopt: 21.838
+numSolved: 123325 / 123325
+solvedMeanSubopt: 21.838
+Spotlight on gene : 
+       2.4176       5.8756       7.9374     0.088971      0.68308       0.1083     0.073725
+
+evaluating on 123325 problems
+time taken for evaluation 13.3 m 
+mean Subopt: 20.090
+numSolved: 123325 / 123325
+solvedMeanSubopt: 20.090
+Spotlight on gene : 
+       3.3751       5.5205       5.4612      0.85246      0.65315      0.77222     0.094997
+
+evaluating on 123325 problems
+time taken for evaluation 15.7 m 
+mean Subopt: 20.600
+numSolved: 123325 / 123325
+solvedMeanSubopt: 20.600
+Final results from Experiment 1
+Total experiment time 5.5 h
+gSuboptByNumTrial =
+
+       21.032       21.838
+
+
+gSuboptByFoodValue =
+
+       26.558        20.09
+
+
+gSuboptByFinalTrialCount =
+
+       21.246         20.6
+
+
+gExpanse =
+
+   2.4401e+09   2.4341e+09
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    []    []    []
+
+IdleTimeout has been reached.
+Parallel pool using the 'local' profile is shutting down.
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.06 0.2 0.2 0.02 0.02 0.02 0.02]
+           mutationRate2: [0.02 0.066667 0.066667 0.0066667 0.0066667 0.0066667 0.0066667]
+               eraLength: 10000000
+          difficultyGrad: 0.3
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.279]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', 'C:\Users\toukir\Dropbox\b6\experiments.m', 11)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\experiments.m',11,0)">line 11</a>)
+} 
+experiments
+time taken for evolution is 5.0 h
+expanses = 
+ 2.469e+09
+
+Spotlight on gene : 
+
+ans =
+
+       3.9702            0       2.1541      0.35958      0.72212      0.30134            1
+
+evaluating on 123325 problems
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 4 workers.
+time taken for evaluation 14.0 m 
+mean Subopt: 22.856
+numSolved: 123325 / 123325
+solvedMeanSubopt: 22.856
+Spotlight on gene : 
+       1.9566       8.1491       3.1125      0.46667      0.95071      0.35327       0.4291
+
+evaluating on 123325 problems
+time taken for evaluation 13.8 m 
+mean Subopt: 22.075
+numSolved: 123325 / 123325
+solvedMeanSubopt: 22.075
+Spotlight on gene : 
+       3.2773       2.8006       1.4448      0.73243      0.66158      0.20461       0.6663
+
+evaluating on 123325 problems
+time taken for evaluation 13.5 m 
+mean Subopt: 20.461
+numSolved: 123325 / 123325
+solvedMeanSubopt: 20.461
+Final results from Experiment 1
+Total experiment time 5.6 h
+gSuboptByNumTrial =
+
+       21.032       21.838       22.856
+
+
+gSuboptByFoodValue =
+
+       26.558        20.09       22.075
+
+
+gSuboptByFinalTrialCount =
+
+       21.246         20.6       20.461
+
+
+gExpanse =
+
+   2.4401e+09   2.4341e+09    2.469e+09
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    [1×1 struct]    []    []
+
+IdleTimeout has been reached.
+Parallel pool using the 'local' profile is shutting down.
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.06 0.2 0.2 0.02 0.02 0.02 0.02]
+           mutationRate2: [0.02 0.066667 0.066667 0.0066667 0.0066667 0.0066667 0.0066667]
+               eraLength: 10000000
+          difficultyGrad: 0.3
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.279]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 3.4 h
+expanses = 
+ 1.944e+09
+
+Spotlight on gene : 
+
+ans =
+
+       3.2074       3.9785       5.8487      0.87684     0.095751      0.40471      0.54496
+
+evaluating on 123325 problems
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 4 workers.
+time taken for evaluation 16.9 m 
+mean Subopt: 27.033
+numSolved: 123325 / 123325
+solvedMeanSubopt: 27.033
+Spotlight on gene : 
+       3.9717       7.0347       5.7225      0.38578      0.45134      0.25676      0.68743
+
+evaluating on 123325 problems
+time taken for evaluation 16.5 m 
+mean Subopt: 29.691
+numSolved: 123325 / 123325
+solvedMeanSubopt: 29.691
+Spotlight on gene : 
+       3.1504       6.4281       8.6915      0.18357      0.63043      0.50818      0.89306
+
+evaluating on 123325 problems
+time taken for evaluation 15.9 m 
+mean Subopt: 21.727
+numSolved: 123325 / 123325
+solvedMeanSubopt: 21.727
+Final results from Experiment 1
+Total experiment time 4.2 h
+gSuboptByNumTrial =
+
+       21.032       21.838       22.856       27.033
+
+
+gSuboptByFoodValue =
+
+       26.558        20.09       22.075       29.691
+
+
+gSuboptByFinalTrialCount =
+
+       21.246         20.6       20.461       21.727
+
+
+gExpanse =
+
+   2.4401e+09   2.4341e+09    2.469e+09   1.9441e+09
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    [1×1 struct]    [1×1 struct]    []
+
+IdleTimeout has been reached.
+Parallel pool using the 'local' profile is shutting down.
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.06 0.2 0.2 0.02 0.02 0.02 0.02]
+           mutationRate2: [0.02 0.066667 0.066667 0.0066667 0.0066667 0.0066667 0.0066667]
+               eraLength: 10000000
+          difficultyGrad: 0.3
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.279]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 4.3 h
+expanses = 
+ 2.454e+09
+
+Spotlight on gene : 
+
+ans =
+
+       3.1454       4.6687       2.5573      0.66993      0.36299      0.20929        0.508
+
+evaluating on 123325 problems
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 4 workers.
+time taken for evaluation 17.5 m 
+mean Subopt: 29.994
+numSolved: 123325 / 123325
+solvedMeanSubopt: 29.994
+Spotlight on gene : 
+       1.1746       8.5015       6.5361      0.94336      0.54993        0.464      0.81988
+
+evaluating on 123325 problems
+time taken for evaluation 13.6 m 
+mean Subopt: 21.626
+numSolved: 123325 / 123325
+solvedMeanSubopt: 21.626
+Spotlight on gene : 
+       3.1779       4.0473       3.3734        0.655      0.24981      0.22088      0.30482
+
+evaluating on 123325 problems
+time taken for evaluation 17.5 m 
+mean Subopt: 29.388
+numSolved: 123325 / 123325
+solvedMeanSubopt: 29.388
+Final results from Experiment 1
+Total experiment time 5.1 h
+gSuboptByNumTrial =
+
+       21.032       21.838       22.856       27.033       29.994
+
+
+gSuboptByFoodValue =
+
+       26.558        20.09       22.075       29.691       21.626
+
+
+gSuboptByFinalTrialCount =
+
+       21.246         20.6       20.461       21.727       29.388
+
+
+gExpanse =
+
+   2.4401e+09   2.4341e+09    2.469e+09   1.9441e+09   2.4538e+09
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    [1×1 struct]    [1×1 struct]    [1×1 struct]
+
+IdleTimeout has been reached.
+Parallel pool using the 'local' profile is shutting down.
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.06 0.2 0.2 0.02 0.02 0.02 0.02]
+           mutationRate2: [0.02 0.066667 0.066667 0.0066667 0.0066667 0.0066667 0.0066667]
+               eraLength: 100000000
+          difficultyGrad: 0.3
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.279]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+ME = 
+
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'EMLRT:runTime:UserInterrupt'
+       message: 'Interrupt.'
+         cause: {}
+         stack: [3×1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: ''
+    name: 'asyncEvolution2_mex'
+    line: 0
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'exp1.m'
+    name: 'exp1'
+    line: 60
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'experiments.m'
+    name: 'experiments'
+    line: 38
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.06 0.2 0.2 0.02 0.02 0.02 0.02]
+           mutationRate2: [0.02 0.066667 0.066667 0.0066667 0.0066667 0.0066667 0.0066667]
+               eraLength: 100000000
+          difficultyGrad: 0.3
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.279]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+ME = 
+
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'EMLRT:runTime:UserInterrupt'
+       message: 'Interrupt.'
+         cause: {}
+         stack: [3×1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: ''
+    name: 'asyncEvolution2_mex'
+    line: 0
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'exp1.m'
+    name: 'exp1'
+    line: 60
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'experiments.m'
+    name: 'experiments'
+    line: 38
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.06 0.2 0.2 0.02 0.02 0.02 0.02]
+           mutationRate2: [0.02 0.066667 0.066667 0.0066667 0.0066667 0.0066667 0.0066667]
+               eraLength: 100000000
+          difficultyGrad: 0.3
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.279]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+ME = 
+
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'EMLRT:runTime:UserInterrupt'
+       message: 'Interrupt.'
+         cause: {}
+         stack: [3×1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: ''
+    name: 'asyncEvolution2_mex'
+    line: 0
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'exp1.m'
+    name: 'exp1'
+    line: 60
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'experiments.m'
+    name: 'experiments'
+    line: 38
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.06 0.2 0.2 0.02 0.02 0.02 0.02]
+           mutationRate2: [0.02 0.066667 0.066667 0.0066667 0.0066667 0.0066667 0.0066667]
+               eraLength: 100000000
+          difficultyGrad: 0.3
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.279]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+
+ME = 
+
+  <a href="matlab:helpPopup MException" style="font-weight:bold">MException</a> with properties:
+
+    identifier: 'EMLRT:runTime:UserInterrupt'
+       message: 'Interrupt.'
+         cause: {}
+         stack: [3×1 struct]
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: ''
+    name: 'asyncEvolution2_mex'
+    line: 0
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'exp1.m'
+    name: 'exp1'
+    line: 60
+
+
+ans = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+    file: 'experiments.m'
+    name: 'experiments'
+    line: 38
+
+
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+     []
+
+
+gSuboptByFinalTrialCount =
+
+     []
+
+
+gExpanse =
+
+     []
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    []    []    []    []    []
+
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('expandLegendChildren', '/home/toukir/matlab/toolbox/matlab/scribe/private/expandLegendChildren.m', 18)" style="font-weight:bold">expandLegendChildren</a> (<a href="matlab: opentoline('/home/toukir/matlab/toolbox/matlab/scribe/private/expandLegendChildren.m',18,0)">line 18</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('get_legendable_children', '/home/toukir/matlab/toolbox/matlab/scribe/private/get_legendable_children.m', 36)" style="font-weight:bold">get_legendable_children</a> (<a href="matlab: opentoline('/home/toukir/matlab/toolbox/matlab/scribe/private/get_legendable_children.m',36,0)">line 36</a>)
+legkids = expandLegendChildren(legkids);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('graph2dhelper', '/home/toukir/matlab/toolbox/matlab/scribe/graph2dhelper.m', 31)" style="font-weight:bold">graph2dhelper</a> (<a href="matlab: opentoline('/home/toukir/matlab/toolbox/matlab/scribe/graph2dhelper.m',31,0)">line 31</a>)
+        [varargout{1:nargout}] = feval(varargin{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>getLegendableChildren', '/home/toukir/matlab/toolbox/matlab/scribe/legend.p', 630)" style="font-weight:bold">legend>getLegendableChildren</a> (<a href="matlab: opentoline('/home/toukir/matlab/toolbox/matlab/scribe/legend.p',630,0)">line 630</a>)
+children = graph2dhelper('get_legendable_children', ha);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>set_children_and_strings', '/home/toukir/matlab/toolbox/matlab/scribe/legend.p', 646)" style="font-weight:bold">legend>set_children_and_strings</a> (<a href="matlab: opentoline('/home/toukir/matlab/toolbox/matlab/scribe/legend.p',646,0)">line 646</a>)
+    ch = getLegendableChildren(ha);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend>make_legend', '/home/toukir/matlab/toolbox/matlab/scribe/legend.p', 346)" style="font-weight:bold">legend>make_legend</a> (<a href="matlab: opentoline('/home/toukir/matlab/toolbox/matlab/scribe/legend.p',346,0)">line 346</a>)
+set_children_and_strings(ha,leg,children,strings);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('legend', '/home/toukir/matlab/toolbox/matlab/scribe/legend.p', 294)" style="font-weight:bold">legend</a> (<a href="matlab: opentoline('/home/toukir/matlab/toolbox/matlab/scribe/legend.p',294,0)">line 294</a>)
+    make_legend(ha,args(arg:end),version);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', '/home/toukir/Dropbox/b6/experiments.m', 52)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('/home/toukir/Dropbox/b6/experiments.m',52,0)">line 52</a>)
+    legend('NumTrial','FoodValue','FinalTrial');
+} 
+untitled
+
+s5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.704 21.14 21.06 20.724 20.336]
+     maxSubopt: [5691.7 4517.4 3795.8 3518.2 2839.1]
+     mnTouched: [182.68 180.34 183.87 181.63 175.84]
+    mnTouchedH: [129.52 127.53 130.28 128.73 124.76]
+    tExpansion: [201996991 176454525 173274210 195813664 185265245]
+
+
+s10 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.351 20.943 19.627 20.024 19.589]
+     maxSubopt: [18087 4149.3 4500 5006.3 3843.2]
+     mnTouched: [190.65 270.98 265 173.23 171.94]
+    mnTouchedH: [134.24 218.34 213.91 122.93 121.91]
+    tExpansion: [427947571 429645479 406661710 437115854 392576966]
+
+
+s15 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.757 20.139 18.873 20.136 18.881]
+     maxSubopt: [6339.4 3484.7 3201.8 3153.4 3391.1]
+     mnTouched: [178.59 268.63 168.46 178.67 168.7]
+    mnTouchedH: [126.54 216.61 119.73 126.65 119.93]
+    tExpansion: [596729947 643392418 581841641 609279737 586469801]
+
+
+s20 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [19.361 19.284 21.167 21.054 19.934]
+     maxSubopt: [1635.4 1929.4 7348.3 3981.9 2542.3]
+     mnTouched: [167.45 254.13 184.95 275.57 262.45]
+    mnTouchedH: [118.77 204.86 130.9 222.01 211.58]
+    tExpansion: [858385677 831585309 790238861 794659661 856896969]
+
+
+a5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [25512347 27155576 27163657 27090654 25630221]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [6140 2504.1 3212.1 3652.4 4743.5]
+                 gMaxSubopt2: [3527.9 1254.4 3655 6041.8 3130.2]
+                 gMaxSubopt3: [4467.3 3238.8 3392.9 5455.8 5700]
+                        gST1: [491.51 174.24 182.95 288.36 307.09]
+                        gST2: [459.7 173.43 180.43 183.66 309.07]
+                        gST3: [479.34 177.69 185.11 186.54 310.03]
+                       gSTH1: [523.45 123.11 129.5 325.84 247.56]
+                       gSTH2: [489.61 122.54 127.72 129.94 249.08]
+                       gSTH3: [510.51 125.63 131.04 131.9 249.89]
+    gSuboptByFinalTrialCount: [29.047 20.894 21.745 21.517 23.823]
+          gSuboptByFoodValue: [28.051 20.609 21.129 21.138 23.755]
+           gSuboptByNumTrial: [29.784 20.742 21.445 36.018 23.471]
+
+
+a6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [250775367 249085927 249425937 254495388 263831500]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [3595.6 4129.7 7323.6 2930.9 3545.6]
+                 gMaxSubopt2: [2570.4 3773.7 2339.7 4603.5 2646]
+                 gMaxSubopt3: [2143 3916.3 3608.4 3668.4 3787]
+                        gST1: [298.17 319.44 183.74 177.26 274.8]
+                        gST2: [166.29 286.81 171.52 176.15 273.58]
+                        gST3: [165.63 276.84 170.51 178.46 274.34]
+                       gSTH1: [337.01 257.42 130.14 125.65 221.47]
+                       gSTH2: [117.99 231.06 121.62 124.86 220.51]
+                       gSTH3: [117.47 223.09 120.92 126.47 221.13]
+    gSuboptByFinalTrialCount: [19.232 21.335 19.647 20.455 20.743]
+          gSuboptByFoodValue: [19.183 22.439 19.901 20.159 20.683]
+           gSuboptByNumTrial: [36.829 24.43 21.535 20.311 20.78]
+
+
+a7 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [2.4401e+09 2.4341e+09 2.469e+09 1.9441e+09 2.4538e+09]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [4003.2 4513.4 5401.5 5665.7 13248]
+                 gMaxSubopt2: [3981.6 3003.5 3880 4774.3 4133.5]
+                 gMaxSubopt3: [4071.3 2834.4 2332 5574.6 5273.8]
+                        gST1: [275.77 186.02 187.61 220.87 247.29]
+                        gST2: [432.05 173.41 188.37 243.97 184.14]
+                        gST3: [278.29 270.21 178.05 277.35 242.32]
+                       gSTH1: [222.1 131.63 133.19 249.73 279.47]
+                       gSTH2: [460.27 122.97 133.51 275.8 130.23]
+                       gSTH3: [224.1 217.81 126.1 223.32 273.88]
+    gSuboptByFinalTrialCount: [21.246 20.6 20.461 21.727 29.388]
+          gSuboptByFoodValue: [26.558 20.09 22.075 29.691 21.626]
+           gSuboptByNumTrial: [21.032 21.838 22.856 27.033 29.994]
+
+a7
+
+a7 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [2.4401e+09 2.4341e+09 2.469e+09 1.9441e+09 2.4538e+09]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [4003.2 4513.4 5401.5 5665.7 13248]
+                 gMaxSubopt2: [3981.6 3003.5 3880 4774.3 4133.5]
+                 gMaxSubopt3: [4071.3 2834.4 2332 5574.6 5273.8]
+                        gST1: [275.77 186.02 187.61 220.87 247.29]
+                        gST2: [432.05 173.41 188.37 243.97 184.14]
+                        gST3: [278.29 270.21 178.05 277.35 242.32]
+                       gSTH1: [222.1 131.63 133.19 249.73 279.47]
+                       gSTH2: [460.27 122.97 133.51 275.8 130.23]
+                       gSTH3: [224.1 217.81 126.1 223.32 273.88]
+    gSuboptByFinalTrialCount: [21.246 20.6 20.461 21.727 29.388]
+          gSuboptByFoodValue: [26.558 20.09 22.075 29.691 21.626]
+           gSuboptByNumTrial: [21.032 21.838 22.856 27.033 29.994]
+
+untitled
+
+s5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.704 21.14 21.06 20.724 20.336]
+     maxSubopt: [5691.7 4517.4 3795.8 3518.2 2839.1]
+     mnTouched: [182.68 180.34 183.87 181.63 175.84]
+    mnTouchedH: [129.52 127.53 130.28 128.73 124.76]
+    tExpansion: [201996991 176454525 173274210 195813664 185265245]
+
+
+s10 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.351 20.943 19.627 20.024 19.589]
+     maxSubopt: [18087 4149.3 4500 5006.3 3843.2]
+     mnTouched: [190.65 270.98 265 173.23 171.94]
+    mnTouchedH: [134.24 218.34 213.91 122.93 121.91]
+    tExpansion: [427947571 429645479 406661710 437115854 392576966]
+
+
+s15 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.757 20.139 18.873 20.136 18.881]
+     maxSubopt: [6339.4 3484.7 3201.8 3153.4 3391.1]
+     mnTouched: [178.59 268.63 168.46 178.67 168.7]
+    mnTouchedH: [126.54 216.61 119.73 126.65 119.93]
+    tExpansion: [596729947 643392418 581841641 609279737 586469801]
+
+
+s20 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [19.361 19.284 21.167 21.054 19.934]
+     maxSubopt: [1635.4 1929.4 7348.3 3981.9 2542.3]
+     mnTouched: [167.45 254.13 184.95 275.57 262.45]
+    mnTouchedH: [118.77 204.86 130.9 222.01 211.58]
+    tExpansion: [858385677 831585309 790238861 794659661 856896969]
+
+
+a5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [25512347 27155576 27163657 27090654 25630221]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [6140 2504.1 3212.1 3652.4 4743.5]
+                 gMaxSubopt2: [3527.9 1254.4 3655 6041.8 3130.2]
+                 gMaxSubopt3: [4467.3 3238.8 3392.9 5455.8 5700]
+                        gST1: [491.51 174.24 182.95 288.36 307.09]
+                        gST2: [459.7 173.43 180.43 183.66 309.07]
+                        gST3: [479.34 177.69 185.11 186.54 310.03]
+                       gSTH1: [523.45 123.11 129.5 325.84 247.56]
+                       gSTH2: [489.61 122.54 127.72 129.94 249.08]
+                       gSTH3: [510.51 125.63 131.04 131.9 249.89]
+    gSuboptByFinalTrialCount: [29.047 20.894 21.745 21.517 23.823]
+          gSuboptByFoodValue: [28.051 20.609 21.129 21.138 23.755]
+           gSuboptByNumTrial: [29.784 20.742 21.445 36.018 23.471]
+
+
+a6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [250775367 249085927 249425937 254495388 263831500]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [3595.6 4129.7 7323.6 2930.9 3545.6]
+                 gMaxSubopt2: [2570.4 3773.7 2339.7 4603.5 2646]
+                 gMaxSubopt3: [2143 3916.3 3608.4 3668.4 3787]
+                        gST1: [298.17 319.44 183.74 177.26 274.8]
+                        gST2: [166.29 286.81 171.52 176.15 273.58]
+                        gST3: [165.63 276.84 170.51 178.46 274.34]
+                       gSTH1: [337.01 257.42 130.14 125.65 221.47]
+                       gSTH2: [117.99 231.06 121.62 124.86 220.51]
+                       gSTH3: [117.47 223.09 120.92 126.47 221.13]
+    gSuboptByFinalTrialCount: [19.232 21.335 19.647 20.455 20.743]
+          gSuboptByFoodValue: [19.183 22.439 19.901 20.159 20.683]
+           gSuboptByNumTrial: [36.829 24.43 21.535 20.311 20.78]
+
+
+a7 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [2.4401e+09 2.4341e+09 2.469e+09 1.9441e+09 2.4538e+09]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [4003.2 4513.4 5401.5 5665.7 13248]
+                 gMaxSubopt2: [3981.6 3003.5 3880 4774.3 4133.5]
+                 gMaxSubopt3: [4071.3 2834.4 2332 5574.6 5273.8]
+                        gST1: [275.77 186.02 187.61 220.87 247.29]
+                        gST2: [432.05 173.41 188.37 243.97 184.14]
+                        gST3: [278.29 270.21 178.05 277.35 242.32]
+                       gSTH1: [222.1 131.63 133.19 249.73 279.47]
+                       gSTH2: [460.27 122.97 133.51 275.8 130.23]
+                       gSTH3: [224.1 217.81 126.1 223.32 273.88]
+    gSuboptByFinalTrialCount: [21.246 20.6 20.461 21.727 29.388]
+          gSuboptByFoodValue: [26.558 20.09 22.075 29.691 21.626]
+           gSuboptByNumTrial: [21.032 21.838 22.856 27.033 29.994]
+
+untitled
+
+s5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.704 21.14 21.06 20.724 20.336]
+     maxSubopt: [5691.7 4517.4 3795.8 3518.2 2839.1]
+     mnTouched: [182.68 180.34 183.87 181.63 175.84]
+    mnTouchedH: [129.52 127.53 130.28 128.73 124.76]
+    tExpansion: [201996991 176454525 173274210 195813664 185265245]
+
+
+s10 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.351 20.943 19.627 20.024 19.589]
+     maxSubopt: [18087 4149.3 4500 5006.3 3843.2]
+     mnTouched: [190.65 270.98 265 173.23 171.94]
+    mnTouchedH: [134.24 218.34 213.91 122.93 121.91]
+    tExpansion: [427947571 429645479 406661710 437115854 392576966]
+
+
+s15 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.757 20.139 18.873 20.136 18.881]
+     maxSubopt: [6339.4 3484.7 3201.8 3153.4 3391.1]
+     mnTouched: [178.59 268.63 168.46 178.67 168.7]
+    mnTouchedH: [126.54 216.61 119.73 126.65 119.93]
+    tExpansion: [596729947 643392418 581841641 609279737 586469801]
+
+
+s20 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [19.361 19.284 21.167 21.054 19.934]
+     maxSubopt: [1635.4 1929.4 7348.3 3981.9 2542.3]
+     mnTouched: [167.45 254.13 184.95 275.57 262.45]
+    mnTouchedH: [118.77 204.86 130.9 222.01 211.58]
+    tExpansion: [858385677 831585309 790238861 794659661 856896969]
+
+
+a5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [25512347 27155576 27163657 27090654 25630221]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [6140 2504.1 3212.1 3652.4 4743.5]
+                 gMaxSubopt2: [3527.9 1254.4 3655 6041.8 3130.2]
+                 gMaxSubopt3: [4467.3 3238.8 3392.9 5455.8 5700]
+                        gST1: [491.51 174.24 182.95 288.36 307.09]
+                        gST2: [459.7 173.43 180.43 183.66 309.07]
+                        gST3: [479.34 177.69 185.11 186.54 310.03]
+                       gSTH1: [523.45 123.11 129.5 325.84 247.56]
+                       gSTH2: [489.61 122.54 127.72 129.94 249.08]
+                       gSTH3: [510.51 125.63 131.04 131.9 249.89]
+    gSuboptByFinalTrialCount: [29.047 20.894 21.745 21.517 23.823]
+          gSuboptByFoodValue: [28.051 20.609 21.129 21.138 23.755]
+           gSuboptByNumTrial: [29.784 20.742 21.445 36.018 23.471]
+
+
+a6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [250775367 249085927 249425937 254495388 263831500]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [3595.6 4129.7 7323.6 2930.9 3545.6]
+                 gMaxSubopt2: [2570.4 3773.7 2339.7 4603.5 2646]
+                 gMaxSubopt3: [2143 3916.3 3608.4 3668.4 3787]
+                        gST1: [298.17 319.44 183.74 177.26 274.8]
+                        gST2: [166.29 286.81 171.52 176.15 273.58]
+                        gST3: [165.63 276.84 170.51 178.46 274.34]
+                       gSTH1: [337.01 257.42 130.14 125.65 221.47]
+                       gSTH2: [117.99 231.06 121.62 124.86 220.51]
+                       gSTH3: [117.47 223.09 120.92 126.47 221.13]
+    gSuboptByFinalTrialCount: [19.232 21.335 19.647 20.455 20.743]
+          gSuboptByFoodValue: [19.183 22.439 19.901 20.159 20.683]
+           gSuboptByNumTrial: [36.829 24.43 21.535 20.311 20.78]
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file '../b6/logs/_range_async_20_2x6_pointy.mat'. No such file or directory.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('untitled', '/home/toukir/Dropbox/2Toukir_working/untitled.m', 11)" style="font-weight:bold">untitled</a> (<a href="matlab: opentoline('/home/toukir/Dropbox/2Toukir_working/untitled.m',11,0)">line 11</a>)
+a2x6= load('../b6/logs/_range_async_20_2x6_pointy.mat')
+} 
+untitled
+
+s5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.704 21.14 21.06 20.724 20.336]
+     maxSubopt: [5691.7 4517.4 3795.8 3518.2 2839.1]
+     mnTouched: [182.68 180.34 183.87 181.63 175.84]
+    mnTouchedH: [129.52 127.53 130.28 128.73 124.76]
+    tExpansion: [201996991 176454525 173274210 195813664 185265245]
+
+
+s10 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.351 20.943 19.627 20.024 19.589]
+     maxSubopt: [18087 4149.3 4500 5006.3 3843.2]
+     mnTouched: [190.65 270.98 265 173.23 171.94]
+    mnTouchedH: [134.24 218.34 213.91 122.93 121.91]
+    tExpansion: [427947571 429645479 406661710 437115854 392576966]
+
+
+s15 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.757 20.139 18.873 20.136 18.881]
+     maxSubopt: [6339.4 3484.7 3201.8 3153.4 3391.1]
+     mnTouched: [178.59 268.63 168.46 178.67 168.7]
+    mnTouchedH: [126.54 216.61 119.73 126.65 119.93]
+    tExpansion: [596729947 643392418 581841641 609279737 586469801]
+
+
+s20 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [19.361 19.284 21.167 21.054 19.934]
+     maxSubopt: [1635.4 1929.4 7348.3 3981.9 2542.3]
+     mnTouched: [167.45 254.13 184.95 275.57 262.45]
+    mnTouchedH: [118.77 204.86 130.9 222.01 211.58]
+    tExpansion: [858385677 831585309 790238861 794659661 856896969]
+
+
+a5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [25512347 27155576 27163657 27090654 25630221]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [6140 2504.1 3212.1 3652.4 4743.5]
+                 gMaxSubopt2: [3527.9 1254.4 3655 6041.8 3130.2]
+                 gMaxSubopt3: [4467.3 3238.8 3392.9 5455.8 5700]
+                        gST1: [491.51 174.24 182.95 288.36 307.09]
+                        gST2: [459.7 173.43 180.43 183.66 309.07]
+                        gST3: [479.34 177.69 185.11 186.54 310.03]
+                       gSTH1: [523.45 123.11 129.5 325.84 247.56]
+                       gSTH2: [489.61 122.54 127.72 129.94 249.08]
+                       gSTH3: [510.51 125.63 131.04 131.9 249.89]
+    gSuboptByFinalTrialCount: [29.047 20.894 21.745 21.517 23.823]
+          gSuboptByFoodValue: [28.051 20.609 21.129 21.138 23.755]
+           gSuboptByNumTrial: [29.784 20.742 21.445 36.018 23.471]
+
+
+a6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [250775367 249085927 249425937 254495388 263831500]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [3595.6 4129.7 7323.6 2930.9 3545.6]
+                 gMaxSubopt2: [2570.4 3773.7 2339.7 4603.5 2646]
+                 gMaxSubopt3: [2143 3916.3 3608.4 3668.4 3787]
+                        gST1: [298.17 319.44 183.74 177.26 274.8]
+                        gST2: [166.29 286.81 171.52 176.15 273.58]
+                        gST3: [165.63 276.84 170.51 178.46 274.34]
+                       gSTH1: [337.01 257.42 130.14 125.65 221.47]
+                       gSTH2: [117.99 231.06 121.62 124.86 220.51]
+                       gSTH3: [117.47 223.09 120.92 126.47 221.13]
+    gSuboptByFinalTrialCount: [19.232 21.335 19.647 20.455 20.743]
+          gSuboptByFoodValue: [19.183 22.439 19.901 20.159 20.683]
+           gSuboptByNumTrial: [36.829 24.43 21.535 20.311 20.78]
+
+
+a2x6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [507014029 499049558 506195843]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  []  []}
+                 gMaxSubopt1: [3690 2580.4 3448.2]
+                 gMaxSubopt2: [5345.5 5092.3 9310.8]
+                 gMaxSubopt3: [4177.1 3261.1 4897]
+                        gST1: [185.33 179.41 285.38]
+                        gST2: [191.41 180.07 288.18]
+                        gST3: [185.38 180.6 278.87]
+                       gSTH1: [131.22 126.89 229.91]
+                       gSTH2: [135.57 127.41 232.19]
+                       gSTH3: [131.26 127.73 224.68]
+    gSuboptByFinalTrialCount: [21.768 21.167 21.679]
+          gSuboptByFoodValue: [22.574 21.123 22.583]
+           gSuboptByNumTrial: [21.743 21.039 22.34]
+
+
+a7 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [2.4401e+09 2.4341e+09 2.469e+09 1.9441e+09 2.4538e+09]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [4003.2 4513.4 5401.5 5665.7 13248]
+                 gMaxSubopt2: [3981.6 3003.5 3880 4774.3 4133.5]
+                 gMaxSubopt3: [4071.3 2834.4 2332 5574.6 5273.8]
+                        gST1: [275.77 186.02 187.61 220.87 247.29]
+                        gST2: [432.05 173.41 188.37 243.97 184.14]
+                        gST3: [278.29 270.21 178.05 277.35 242.32]
+                       gSTH1: [222.1 131.63 133.19 249.73 279.47]
+                       gSTH2: [460.27 122.97 133.51 275.8 130.23]
+                       gSTH3: [224.1 217.81 126.1 223.32 273.88]
+    gSuboptByFinalTrialCount: [21.246 20.6 20.461 21.727 29.388]
+          gSuboptByFoodValue: [26.558 20.09 22.075 29.691 21.626]
+           gSuboptByNumTrial: [21.032 21.838 22.856 27.033 29.994]
+
+a2x6
+
+a2x6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [507014029 499049558 506195843]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  []  []}
+                 gMaxSubopt1: [3690 2580.4 3448.2]
+                 gMaxSubopt2: [5345.5 5092.3 9310.8]
+                 gMaxSubopt3: [4177.1 3261.1 4897]
+                        gST1: [185.33 179.41 285.38]
+                        gST2: [191.41 180.07 288.18]
+                        gST3: [185.38 180.6 278.87]
+                       gSTH1: [131.22 126.89 229.91]
+                       gSTH2: [135.57 127.41 232.19]
+                       gSTH3: [131.26 127.73 224.68]
+    gSuboptByFinalTrialCount: [21.768 21.167 21.679]
+          gSuboptByFoodValue: [22.574 21.123 22.583]
+           gSuboptByNumTrial: [21.743 21.039 22.34]
+
+untitled
+
+s5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.704 21.14 21.06 20.724 20.336]
+     maxSubopt: [5691.7 4517.4 3795.8 3518.2 2839.1]
+     mnTouched: [182.68 180.34 183.87 181.63 175.84]
+    mnTouchedH: [129.52 127.53 130.28 128.73 124.76]
+    tExpansion: [201996991 176454525 173274210 195813664 185265245]
+
+
+s10 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.351 20.943 19.627 20.024 19.589]
+     maxSubopt: [18087 4149.3 4500 5006.3 3843.2]
+     mnTouched: [190.65 270.98 265 173.23 171.94]
+    mnTouchedH: [134.24 218.34 213.91 122.93 121.91]
+    tExpansion: [427947571 429645479 406661710 437115854 392576966]
+
+
+s15 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.757 20.139 18.873 20.136 18.881]
+     maxSubopt: [6339.4 3484.7 3201.8 3153.4 3391.1]
+     mnTouched: [178.59 268.63 168.46 178.67 168.7]
+    mnTouchedH: [126.54 216.61 119.73 126.65 119.93]
+    tExpansion: [596729947 643392418 581841641 609279737 586469801]
+
+
+s20 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [19.361 19.284 21.167 21.054 19.934]
+     maxSubopt: [1635.4 1929.4 7348.3 3981.9 2542.3]
+     mnTouched: [167.45 254.13 184.95 275.57 262.45]
+    mnTouchedH: [118.77 204.86 130.9 222.01 211.58]
+    tExpansion: [858385677 831585309 790238861 794659661 856896969]
+
+
+a5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [25512347 27155576 27163657 27090654 25630221]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [6140 2504.1 3212.1 3652.4 4743.5]
+                 gMaxSubopt2: [3527.9 1254.4 3655 6041.8 3130.2]
+                 gMaxSubopt3: [4467.3 3238.8 3392.9 5455.8 5700]
+                        gST1: [491.51 174.24 182.95 288.36 307.09]
+                        gST2: [459.7 173.43 180.43 183.66 309.07]
+                        gST3: [479.34 177.69 185.11 186.54 310.03]
+                       gSTH1: [523.45 123.11 129.5 325.84 247.56]
+                       gSTH2: [489.61 122.54 127.72 129.94 249.08]
+                       gSTH3: [510.51 125.63 131.04 131.9 249.89]
+    gSuboptByFinalTrialCount: [29.047 20.894 21.745 21.517 23.823]
+          gSuboptByFoodValue: [28.051 20.609 21.129 21.138 23.755]
+           gSuboptByNumTrial: [29.784 20.742 21.445 36.018 23.471]
+
+
+a6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [250775367 249085927 249425937 254495388 263831500]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [3595.6 4129.7 7323.6 2930.9 3545.6]
+                 gMaxSubopt2: [2570.4 3773.7 2339.7 4603.5 2646]
+                 gMaxSubopt3: [2143 3916.3 3608.4 3668.4 3787]
+                        gST1: [298.17 319.44 183.74 177.26 274.8]
+                        gST2: [166.29 286.81 171.52 176.15 273.58]
+                        gST3: [165.63 276.84 170.51 178.46 274.34]
+                       gSTH1: [337.01 257.42 130.14 125.65 221.47]
+                       gSTH2: [117.99 231.06 121.62 124.86 220.51]
+                       gSTH3: [117.47 223.09 120.92 126.47 221.13]
+    gSuboptByFinalTrialCount: [19.232 21.335 19.647 20.455 20.743]
+          gSuboptByFoodValue: [19.183 22.439 19.901 20.159 20.683]
+           gSuboptByNumTrial: [36.829 24.43 21.535 20.311 20.78]
+
+
+a2x6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [507014029 499049558 506195843]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  []  []}
+                 gMaxSubopt1: [3690 2580.4 3448.2]
+                 gMaxSubopt2: [5345.5 5092.3 9310.8]
+                 gMaxSubopt3: [4177.1 3261.1 4897]
+                        gST1: [185.33 179.41 285.38]
+                        gST2: [191.41 180.07 288.18]
+                        gST3: [185.38 180.6 278.87]
+                       gSTH1: [131.22 126.89 229.91]
+                       gSTH2: [135.57 127.41 232.19]
+                       gSTH3: [131.26 127.73 224.68]
+    gSuboptByFinalTrialCount: [21.768 21.167 21.679]
+          gSuboptByFoodValue: [22.574 21.123 22.583]
+           gSuboptByNumTrial: [21.743 21.039 22.34]
+
+
+a7 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [2.4401e+09 2.4341e+09 2.469e+09 1.9441e+09 2.4538e+09]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [4003.2 4513.4 5401.5 5665.7 13248]
+                 gMaxSubopt2: [3981.6 3003.5 3880 4774.3 4133.5]
+                 gMaxSubopt3: [4071.3 2834.4 2332 5574.6 5273.8]
+                        gST1: [275.77 186.02 187.61 220.87 247.29]
+                        gST2: [432.05 173.41 188.37 243.97 184.14]
+                        gST3: [278.29 270.21 178.05 277.35 242.32]
+                       gSTH1: [222.1 131.63 133.19 249.73 279.47]
+                       gSTH2: [460.27 122.97 133.51 275.8 130.23]
+                       gSTH3: [224.1 217.81 126.1 223.32 273.88]
+    gSuboptByFinalTrialCount: [21.246 20.6 20.461 21.727 29.388]
+          gSuboptByFoodValue: [26.558 20.09 22.075 29.691 21.626]
+           gSuboptByNumTrial: [21.032 21.838 22.856 27.033 29.994]
+
+untitled
+
+s5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.704 21.14 21.06 20.724 20.336]
+     maxSubopt: [5691.7 4517.4 3795.8 3518.2 2839.1]
+     mnTouched: [182.68 180.34 183.87 181.63 175.84]
+    mnTouchedH: [129.52 127.53 130.28 128.73 124.76]
+    tExpansion: [201996991 176454525 173274210 195813664 185265245]
+
+
+s10 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.351 20.943 19.627 20.024 19.589]
+     maxSubopt: [18087 4149.3 4500 5006.3 3843.2]
+     mnTouched: [190.65 270.98 265 173.23 171.94]
+    mnTouchedH: [134.24 218.34 213.91 122.93 121.91]
+    tExpansion: [427947571 429645479 406661710 437115854 392576966]
+
+
+s15 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.757 20.139 18.873 20.136 18.881]
+     maxSubopt: [6339.4 3484.7 3201.8 3153.4 3391.1]
+     mnTouched: [178.59 268.63 168.46 178.67 168.7]
+    mnTouchedH: [126.54 216.61 119.73 126.65 119.93]
+    tExpansion: [596729947 643392418 581841641 609279737 586469801]
+
+
+s20 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [19.361 19.284 21.167 21.054 19.934]
+     maxSubopt: [1635.4 1929.4 7348.3 3981.9 2542.3]
+     mnTouched: [167.45 254.13 184.95 275.57 262.45]
+    mnTouchedH: [118.77 204.86 130.9 222.01 211.58]
+    tExpansion: [858385677 831585309 790238861 794659661 856896969]
+
+
+a5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [25512347 27155576 27163657 27090654 25630221]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [6140 2504.1 3212.1 3652.4 4743.5]
+                 gMaxSubopt2: [3527.9 1254.4 3655 6041.8 3130.2]
+                 gMaxSubopt3: [4467.3 3238.8 3392.9 5455.8 5700]
+                        gST1: [491.51 174.24 182.95 288.36 307.09]
+                        gST2: [459.7 173.43 180.43 183.66 309.07]
+                        gST3: [479.34 177.69 185.11 186.54 310.03]
+                       gSTH1: [523.45 123.11 129.5 325.84 247.56]
+                       gSTH2: [489.61 122.54 127.72 129.94 249.08]
+                       gSTH3: [510.51 125.63 131.04 131.9 249.89]
+    gSuboptByFinalTrialCount: [29.047 20.894 21.745 21.517 23.823]
+          gSuboptByFoodValue: [28.051 20.609 21.129 21.138 23.755]
+           gSuboptByNumTrial: [29.784 20.742 21.445 36.018 23.471]
+
+
+a6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [250775367 249085927 249425937 254495388 263831500]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [3595.6 4129.7 7323.6 2930.9 3545.6]
+                 gMaxSubopt2: [2570.4 3773.7 2339.7 4603.5 2646]
+                 gMaxSubopt3: [2143 3916.3 3608.4 3668.4 3787]
+                        gST1: [298.17 319.44 183.74 177.26 274.8]
+                        gST2: [166.29 286.81 171.52 176.15 273.58]
+                        gST3: [165.63 276.84 170.51 178.46 274.34]
+                       gSTH1: [337.01 257.42 130.14 125.65 221.47]
+                       gSTH2: [117.99 231.06 121.62 124.86 220.51]
+                       gSTH3: [117.47 223.09 120.92 126.47 221.13]
+    gSuboptByFinalTrialCount: [19.232 21.335 19.647 20.455 20.743]
+          gSuboptByFoodValue: [19.183 22.439 19.901 20.159 20.683]
+           gSuboptByNumTrial: [36.829 24.43 21.535 20.311 20.78]
+
+
+a2x6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [507014029 499049558 506195843]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  []  []}
+                 gMaxSubopt1: [3690 2580.4 3448.2]
+                 gMaxSubopt2: [5345.5 5092.3 9310.8]
+                 gMaxSubopt3: [4177.1 3261.1 4897]
+                        gST1: [185.33 179.41 285.38]
+                        gST2: [191.41 180.07 288.18]
+                        gST3: [185.38 180.6 278.87]
+                       gSTH1: [131.22 126.89 229.91]
+                       gSTH2: [135.57 127.41 232.19]
+                       gSTH3: [131.26 127.73 224.68]
+    gSuboptByFinalTrialCount: [21.768 21.167 21.679]
+          gSuboptByFoodValue: [22.574 21.123 22.583]
+           gSuboptByNumTrial: [21.743 21.039 22.34]
+
+
+a7 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [2.4401e+09 2.4341e+09 2.469e+09 1.9441e+09 2.4538e+09]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [4003.2 4513.4 5401.5 5665.7 13248]
+                 gMaxSubopt2: [3981.6 3003.5 3880 4774.3 4133.5]
+                 gMaxSubopt3: [4071.3 2834.4 2332 5574.6 5273.8]
+                        gST1: [275.77 186.02 187.61 220.87 247.29]
+                        gST2: [432.05 173.41 188.37 243.97 184.14]
+                        gST3: [278.29 270.21 178.05 277.35 242.32]
+                       gSTH1: [222.1 131.63 133.19 249.73 279.47]
+                       gSTH2: [460.27 122.97 133.51 275.8 130.23]
+                       gSTH3: [224.1 217.81 126.1 223.32 273.88]
+    gSuboptByFinalTrialCount: [21.246 20.6 20.461 21.727 29.388]
+          gSuboptByFoodValue: [26.558 20.09 22.075 29.691 21.626]
+           gSuboptByNumTrial: [21.032 21.838 22.856 27.033 29.994]
+
+untitled
+
+s5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.704 21.14 21.06 20.724 20.336]
+     maxSubopt: [5691.7 4517.4 3795.8 3518.2 2839.1]
+     mnTouched: [182.68 180.34 183.87 181.63 175.84]
+    mnTouchedH: [129.52 127.53 130.28 128.73 124.76]
+    tExpansion: [201996991 176454525 173274210 195813664 185265245]
+
+
+s10 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.351 20.943 19.627 20.024 19.589]
+     maxSubopt: [18087 4149.3 4500 5006.3 3843.2]
+     mnTouched: [190.65 270.98 265 173.23 171.94]
+    mnTouchedH: [134.24 218.34 213.91 122.93 121.91]
+    tExpansion: [427947571 429645479 406661710 437115854 392576966]
+
+
+s15 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.757 20.139 18.873 20.136 18.881]
+     maxSubopt: [6339.4 3484.7 3201.8 3153.4 3391.1]
+     mnTouched: [178.59 268.63 168.46 178.67 168.7]
+    mnTouchedH: [126.54 216.61 119.73 126.65 119.93]
+    tExpansion: [596729947 643392418 581841641 609279737 586469801]
+
+
+s20 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [19.361 19.284 21.167 21.054 19.934]
+     maxSubopt: [1635.4 1929.4 7348.3 3981.9 2542.3]
+     mnTouched: [167.45 254.13 184.95 275.57 262.45]
+    mnTouchedH: [118.77 204.86 130.9 222.01 211.58]
+    tExpansion: [858385677 831585309 790238861 794659661 856896969]
+
+
+a5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [25512347 27155576 27163657 27090654 25630221]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [6140 2504.1 3212.1 3652.4 4743.5]
+                 gMaxSubopt2: [3527.9 1254.4 3655 6041.8 3130.2]
+                 gMaxSubopt3: [4467.3 3238.8 3392.9 5455.8 5700]
+                        gST1: [491.51 174.24 182.95 288.36 307.09]
+                        gST2: [459.7 173.43 180.43 183.66 309.07]
+                        gST3: [479.34 177.69 185.11 186.54 310.03]
+                       gSTH1: [523.45 123.11 129.5 325.84 247.56]
+                       gSTH2: [489.61 122.54 127.72 129.94 249.08]
+                       gSTH3: [510.51 125.63 131.04 131.9 249.89]
+    gSuboptByFinalTrialCount: [29.047 20.894 21.745 21.517 23.823]
+          gSuboptByFoodValue: [28.051 20.609 21.129 21.138 23.755]
+           gSuboptByNumTrial: [29.784 20.742 21.445 36.018 23.471]
+
+
+a6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [250775367 249085927 249425937 254495388 263831500]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [3595.6 4129.7 7323.6 2930.9 3545.6]
+                 gMaxSubopt2: [2570.4 3773.7 2339.7 4603.5 2646]
+                 gMaxSubopt3: [2143 3916.3 3608.4 3668.4 3787]
+                        gST1: [298.17 319.44 183.74 177.26 274.8]
+                        gST2: [166.29 286.81 171.52 176.15 273.58]
+                        gST3: [165.63 276.84 170.51 178.46 274.34]
+                       gSTH1: [337.01 257.42 130.14 125.65 221.47]
+                       gSTH2: [117.99 231.06 121.62 124.86 220.51]
+                       gSTH3: [117.47 223.09 120.92 126.47 221.13]
+    gSuboptByFinalTrialCount: [19.232 21.335 19.647 20.455 20.743]
+          gSuboptByFoodValue: [19.183 22.439 19.901 20.159 20.683]
+           gSuboptByNumTrial: [36.829 24.43 21.535 20.311 20.78]
+
+
+a2x6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [507014029 499049558 506195843]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  []  []}
+                 gMaxSubopt1: [3690 2580.4 3448.2]
+                 gMaxSubopt2: [5345.5 5092.3 9310.8]
+                 gMaxSubopt3: [4177.1 3261.1 4897]
+                        gST1: [185.33 179.41 285.38]
+                        gST2: [191.41 180.07 288.18]
+                        gST3: [185.38 180.6 278.87]
+                       gSTH1: [131.22 126.89 229.91]
+                       gSTH2: [135.57 127.41 232.19]
+                       gSTH3: [131.26 127.73 224.68]
+    gSuboptByFinalTrialCount: [21.768 21.167 21.679]
+          gSuboptByFoodValue: [22.574 21.123 22.583]
+           gSuboptByNumTrial: [21.743 21.039 22.34]
+
+
+a7 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [2.4401e+09 2.4341e+09 2.469e+09 1.9441e+09 2.4538e+09]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [4003.2 4513.4 5401.5 5665.7 13248]
+                 gMaxSubopt2: [3981.6 3003.5 3880 4774.3 4133.5]
+                 gMaxSubopt3: [4071.3 2834.4 2332 5574.6 5273.8]
+                        gST1: [275.77 186.02 187.61 220.87 247.29]
+                        gST2: [432.05 173.41 188.37 243.97 184.14]
+                        gST3: [278.29 270.21 178.05 277.35 242.32]
+                       gSTH1: [222.1 131.63 133.19 249.73 279.47]
+                       gSTH2: [460.27 122.97 133.51 275.8 130.23]
+                       gSTH3: [224.1 217.81 126.1 223.32 273.88]
+    gSuboptByFinalTrialCount: [21.246 20.6 20.461 21.727 29.388]
+          gSuboptByFoodValue: [26.558 20.09 22.075 29.691 21.626]
+           gSuboptByNumTrial: [21.032 21.838 22.856 27.033 29.994]
+
+untitled
+
+s5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.704 21.14 21.06 20.724 20.336]
+     maxSubopt: [5691.7 4517.4 3795.8 3518.2 2839.1]
+     mnTouched: [182.68 180.34 183.87 181.63 175.84]
+    mnTouchedH: [129.52 127.53 130.28 128.73 124.76]
+    tExpansion: [201996991 176454525 173274210 195813664 185265245]
+
+
+s10 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.351 20.943 19.627 20.024 19.589]
+     maxSubopt: [18087 4149.3 4500 5006.3 3843.2]
+     mnTouched: [190.65 270.98 265 173.23 171.94]
+    mnTouchedH: [134.24 218.34 213.91 122.93 121.91]
+    tExpansion: [427947571 429645479 406661710 437115854 392576966]
+
+
+s15 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.757 20.139 18.873 20.136 18.881]
+     maxSubopt: [6339.4 3484.7 3201.8 3153.4 3391.1]
+     mnTouched: [178.59 268.63 168.46 178.67 168.7]
+    mnTouchedH: [126.54 216.61 119.73 126.65 119.93]
+    tExpansion: [596729947 643392418 581841641 609279737 586469801]
+
+
+s20 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [19.361 19.284 21.167 21.054 19.934]
+     maxSubopt: [1635.4 1929.4 7348.3 3981.9 2542.3]
+     mnTouched: [167.45 254.13 184.95 275.57 262.45]
+    mnTouchedH: [118.77 204.86 130.9 222.01 211.58]
+    tExpansion: [858385677 831585309 790238861 794659661 856896969]
+
+
+s5max = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [19.536 20.837 21.737 21.704 20.597]
+     maxSubopt: [2313 4153.5 4370 6710.4 2792.4]
+     mnTouched: [171.06 269.91 188.46 279.77 267.31]
+    mnTouchedH: [121.3 217.53 133.27 224.81 215.45]
+    tExpansion: [218758338 184870356 178570502 195203858 240365354]
+
+
+s10max = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.949 20.148 290.83 22.156 18.998]
+     maxSubopt: [4305.6 3532.9 1e+05 7243 2058.2]
+     mnTouched: [290.82 175.98 944.43 188.92 166.28]
+    mnTouchedH: [234.3 124.79 1149.1 133.1 117.82]
+    tExpansion: [431432481 379568604 410444096 378957103 439738348]
+
+
+s15max = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.243 21.957 21.834 21.844 20.353]
+     maxSubopt: [7767.1 4352.3 4940.8 4066.3 3381.5]
+     mnTouched: [190.02 186.99 278.61 280.16 268.78]
+    mnTouchedH: [134.01 132.41 224.22 225.74 216.69]
+    tExpansion: [682868782 626041634 642565266 639277481 630443876]
+
+
+s20max = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.348 21.258 22.026 20.72 20.369]
+     maxSubopt: [6645.4 6226.6 3254.4 2496.4 3158.7]
+     mnTouched: [190.57 275.78 283.13 264.39 265.09]
+    mnTouchedH: [135.04 221.77 228.04 212.77 213.72]
+    tExpansion: [840019960 873346755 831436121 865860471 900712812]
+
+
+a5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [25512347 27155576 27163657 27090654 25630221]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [6140 2504.1 3212.1 3652.4 4743.5]
+                 gMaxSubopt2: [3527.9 1254.4 3655 6041.8 3130.2]
+                 gMaxSubopt3: [4467.3 3238.8 3392.9 5455.8 5700]
+                        gST1: [491.51 174.24 182.95 288.36 307.09]
+                        gST2: [459.7 173.43 180.43 183.66 309.07]
+                        gST3: [479.34 177.69 185.11 186.54 310.03]
+                       gSTH1: [523.45 123.11 129.5 325.84 247.56]
+                       gSTH2: [489.61 122.54 127.72 129.94 249.08]
+                       gSTH3: [510.51 125.63 131.04 131.9 249.89]
+    gSuboptByFinalTrialCount: [29.047 20.894 21.745 21.517 23.823]
+          gSuboptByFoodValue: [28.051 20.609 21.129 21.138 23.755]
+           gSuboptByNumTrial: [29.784 20.742 21.445 36.018 23.471]
+
+
+a6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [250775367 249085927 249425937 254495388 263831500]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [3595.6 4129.7 7323.6 2930.9 3545.6]
+                 gMaxSubopt2: [2570.4 3773.7 2339.7 4603.5 2646]
+                 gMaxSubopt3: [2143 3916.3 3608.4 3668.4 3787]
+                        gST1: [298.17 319.44 183.74 177.26 274.8]
+                        gST2: [166.29 286.81 171.52 176.15 273.58]
+                        gST3: [165.63 276.84 170.51 178.46 274.34]
+                       gSTH1: [337.01 257.42 130.14 125.65 221.47]
+                       gSTH2: [117.99 231.06 121.62 124.86 220.51]
+                       gSTH3: [117.47 223.09 120.92 126.47 221.13]
+    gSuboptByFinalTrialCount: [19.232 21.335 19.647 20.455 20.743]
+          gSuboptByFoodValue: [19.183 22.439 19.901 20.159 20.683]
+           gSuboptByNumTrial: [36.829 24.43 21.535 20.311 20.78]
+
+
+a2x6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [507014029 499049558 506195843]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  []  []}
+                 gMaxSubopt1: [3690 2580.4 3448.2]
+                 gMaxSubopt2: [5345.5 5092.3 9310.8]
+                 gMaxSubopt3: [4177.1 3261.1 4897]
+                        gST1: [185.33 179.41 285.38]
+                        gST2: [191.41 180.07 288.18]
+                        gST3: [185.38 180.6 278.87]
+                       gSTH1: [131.22 126.89 229.91]
+                       gSTH2: [135.57 127.41 232.19]
+                       gSTH3: [131.26 127.73 224.68]
+    gSuboptByFinalTrialCount: [21.768 21.167 21.679]
+          gSuboptByFoodValue: [22.574 21.123 22.583]
+           gSuboptByNumTrial: [21.743 21.039 22.34]
+
+
+a7 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [2.4401e+09 2.4341e+09 2.469e+09 1.9441e+09 2.4538e+09]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [4003.2 4513.4 5401.5 5665.7 13248]
+                 gMaxSubopt2: [3981.6 3003.5 3880 4774.3 4133.5]
+                 gMaxSubopt3: [4071.3 2834.4 2332 5574.6 5273.8]
+                        gST1: [275.77 186.02 187.61 220.87 247.29]
+                        gST2: [432.05 173.41 188.37 243.97 184.14]
+                        gST3: [278.29 270.21 178.05 277.35 242.32]
+                       gSTH1: [222.1 131.63 133.19 249.73 279.47]
+                       gSTH2: [460.27 122.97 133.51 275.8 130.23]
+                       gSTH3: [224.1 217.81 126.1 223.32 273.88]
+    gSuboptByFinalTrialCount: [21.246 20.6 20.461 21.727 29.388]
+          gSuboptByFoodValue: [26.558 20.09 22.075 29.691 21.626]
+           gSuboptByNumTrial: [21.032 21.838 22.856 27.033 29.994]
+
+untitled
+
+s5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.704 21.14 21.06 20.724 20.336]
+     maxSubopt: [5691.7 4517.4 3795.8 3518.2 2839.1]
+     mnTouched: [182.68 180.34 183.87 181.63 175.84]
+    mnTouchedH: [129.52 127.53 130.28 128.73 124.76]
+    tExpansion: [201996991 176454525 173274210 195813664 185265245]
+
+
+s10 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.351 20.943 19.627 20.024 19.589]
+     maxSubopt: [18087 4149.3 4500 5006.3 3843.2]
+     mnTouched: [190.65 270.98 265 173.23 171.94]
+    mnTouchedH: [134.24 218.34 213.91 122.93 121.91]
+    tExpansion: [427947571 429645479 406661710 437115854 392576966]
+
+
+s15 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.757 20.139 18.873 20.136 18.881]
+     maxSubopt: [6339.4 3484.7 3201.8 3153.4 3391.1]
+     mnTouched: [178.59 268.63 168.46 178.67 168.7]
+    mnTouchedH: [126.54 216.61 119.73 126.65 119.93]
+    tExpansion: [596729947 643392418 581841641 609279737 586469801]
+
+
+s20 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [19.361 19.284 21.167 21.054 19.934]
+     maxSubopt: [1635.4 1929.4 7348.3 3981.9 2542.3]
+     mnTouched: [167.45 254.13 184.95 275.57 262.45]
+    mnTouchedH: [118.77 204.86 130.9 222.01 211.58]
+    tExpansion: [858385677 831585309 790238861 794659661 856896969]
+
+
+s5max = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [19.536 20.837 21.737 21.704 20.597]
+     maxSubopt: [2313 4153.5 4370 6710.4 2792.4]
+     mnTouched: [171.06 269.91 188.46 279.77 267.31]
+    mnTouchedH: [121.3 217.53 133.27 224.81 215.45]
+    tExpansion: [218758338 184870356 178570502 195203858 240365354]
+
+
+s10max = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.949 20.148 290.83 22.156 18.998]
+     maxSubopt: [4305.6 3532.9 1e+05 7243 2058.2]
+     mnTouched: [290.82 175.98 944.43 188.92 166.28]
+    mnTouchedH: [234.3 124.79 1149.1 133.1 117.82]
+    tExpansion: [431432481 379568604 410444096 378957103 439738348]
+
+
+s15max = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.243 21.957 21.834 21.844 20.353]
+     maxSubopt: [7767.1 4352.3 4940.8 4066.3 3381.5]
+     mnTouched: [190.02 186.99 278.61 280.16 268.78]
+    mnTouchedH: [134.01 132.41 224.22 225.74 216.69]
+    tExpansion: [682868782 626041634 642565266 639277481 630443876]
+
+
+s20max = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.348 21.258 22.026 20.72 20.369]
+     maxSubopt: [6645.4 6226.6 3254.4 2496.4 3158.7]
+     mnTouched: [190.57 275.78 283.13 264.39 265.09]
+    mnTouchedH: [135.04 221.77 228.04 212.77 213.72]
+    tExpansion: [840019960 873346755 831436121 865860471 900712812]
+
+
+a5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [25512347 27155576 27163657 27090654 25630221]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [6140 2504.1 3212.1 3652.4 4743.5]
+                 gMaxSubopt2: [3527.9 1254.4 3655 6041.8 3130.2]
+                 gMaxSubopt3: [4467.3 3238.8 3392.9 5455.8 5700]
+                        gST1: [491.51 174.24 182.95 288.36 307.09]
+                        gST2: [459.7 173.43 180.43 183.66 309.07]
+                        gST3: [479.34 177.69 185.11 186.54 310.03]
+                       gSTH1: [523.45 123.11 129.5 325.84 247.56]
+                       gSTH2: [489.61 122.54 127.72 129.94 249.08]
+                       gSTH3: [510.51 125.63 131.04 131.9 249.89]
+    gSuboptByFinalTrialCount: [29.047 20.894 21.745 21.517 23.823]
+          gSuboptByFoodValue: [28.051 20.609 21.129 21.138 23.755]
+           gSuboptByNumTrial: [29.784 20.742 21.445 36.018 23.471]
+
+
+a6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [250775367 249085927 249425937 254495388 263831500]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [3595.6 4129.7 7323.6 2930.9 3545.6]
+                 gMaxSubopt2: [2570.4 3773.7 2339.7 4603.5 2646]
+                 gMaxSubopt3: [2143 3916.3 3608.4 3668.4 3787]
+                        gST1: [298.17 319.44 183.74 177.26 274.8]
+                        gST2: [166.29 286.81 171.52 176.15 273.58]
+                        gST3: [165.63 276.84 170.51 178.46 274.34]
+                       gSTH1: [337.01 257.42 130.14 125.65 221.47]
+                       gSTH2: [117.99 231.06 121.62 124.86 220.51]
+                       gSTH3: [117.47 223.09 120.92 126.47 221.13]
+    gSuboptByFinalTrialCount: [19.232 21.335 19.647 20.455 20.743]
+          gSuboptByFoodValue: [19.183 22.439 19.901 20.159 20.683]
+           gSuboptByNumTrial: [36.829 24.43 21.535 20.311 20.78]
+
+
+a2x6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [507014029 499049558 506195843]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  []  []}
+                 gMaxSubopt1: [3690 2580.4 3448.2]
+                 gMaxSubopt2: [5345.5 5092.3 9310.8]
+                 gMaxSubopt3: [4177.1 3261.1 4897]
+                        gST1: [185.33 179.41 285.38]
+                        gST2: [191.41 180.07 288.18]
+                        gST3: [185.38 180.6 278.87]
+                       gSTH1: [131.22 126.89 229.91]
+                       gSTH2: [135.57 127.41 232.19]
+                       gSTH3: [131.26 127.73 224.68]
+    gSuboptByFinalTrialCount: [21.768 21.167 21.679]
+          gSuboptByFoodValue: [22.574 21.123 22.583]
+           gSuboptByNumTrial: [21.743 21.039 22.34]
+
+
+a7 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [2.4401e+09 2.4341e+09 2.469e+09 1.9441e+09 2.4538e+09]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [4003.2 4513.4 5401.5 5665.7 13248]
+                 gMaxSubopt2: [3981.6 3003.5 3880 4774.3 4133.5]
+                 gMaxSubopt3: [4071.3 2834.4 2332 5574.6 5273.8]
+                        gST1: [275.77 186.02 187.61 220.87 247.29]
+                        gST2: [432.05 173.41 188.37 243.97 184.14]
+                        gST3: [278.29 270.21 178.05 277.35 242.32]
+                       gSTH1: [222.1 131.63 133.19 249.73 279.47]
+                       gSTH2: [460.27 122.97 133.51 275.8 130.23]
+                       gSTH3: [224.1 217.81 126.1 223.32 273.88]
+    gSuboptByFinalTrialCount: [21.246 20.6 20.461 21.727 29.388]
+          gSuboptByFoodValue: [26.558 20.09 22.075 29.691 21.626]
+           gSuboptByNumTrial: [21.032 21.838 22.856 27.033 29.994]
+
+s10max
+
+s10max = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.949 20.148 290.83 22.156 18.998]
+     maxSubopt: [4305.6 3532.9 1e+05 7243 2058.2]
+     mnTouched: [290.82 175.98 944.43 188.92 166.28]
+    mnTouchedH: [234.3 124.79 1149.1 133.1 117.82]
+    tExpansion: [431432481 379568604 410444096 378957103 439738348]
+
+untitled
+
+s5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.704 21.14 21.06 20.724 20.336]
+     maxSubopt: [5691.7 4517.4 3795.8 3518.2 2839.1]
+     mnTouched: [182.68 180.34 183.87 181.63 175.84]
+    mnTouchedH: [129.52 127.53 130.28 128.73 124.76]
+    tExpansion: [201996991 176454525 173274210 195813664 185265245]
+
+
+s10 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.351 20.943 19.627 20.024 19.589]
+     maxSubopt: [18087 4149.3 4500 5006.3 3843.2]
+     mnTouched: [190.65 270.98 265 173.23 171.94]
+    mnTouchedH: [134.24 218.34 213.91 122.93 121.91]
+    tExpansion: [427947571 429645479 406661710 437115854 392576966]
+
+
+s15 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [20.757 20.139 18.873 20.136 18.881]
+     maxSubopt: [6339.4 3484.7 3201.8 3153.4 3391.1]
+     mnTouched: [178.59 268.63 168.46 178.67 168.7]
+    mnTouchedH: [126.54 216.61 119.73 126.65 119.93]
+    tExpansion: [596729947 643392418 581841641 609279737 586469801]
+
+
+s20 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [19.361 19.284 21.167 21.054 19.934]
+     maxSubopt: [1635.4 1929.4 7348.3 3981.9 2542.3]
+     mnTouched: [167.45 254.13 184.95 275.57 262.45]
+    mnTouchedH: [118.77 204.86 130.9 222.01 211.58]
+    tExpansion: [858385677 831585309 790238861 794659661 856896969]
+
+
+s5max = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [19.536 20.837 21.737 21.704 20.597]
+     maxSubopt: [2313 4153.5 4370 6710.4 2792.4]
+     mnTouched: [171.06 269.91 188.46 279.77 267.31]
+    mnTouchedH: [121.3 217.53 133.27 224.81 215.45]
+    tExpansion: [218758338 184870356 178570502 195203858 240365354]
+
+
+s10max = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.949 20.148 290.83 22.156 18.998]
+     maxSubopt: [4305.6 3532.9 1e+05 7243 2058.2]
+     mnTouched: [290.82 175.98 944.43 188.92 166.28]
+    mnTouchedH: [234.3 124.79 1149.1 133.1 117.82]
+    tExpansion: [431432481 379568604 410444096 378957103 439738348]
+
+
+s15max = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.243 21.957 21.834 21.844 20.353]
+     maxSubopt: [7767.1 4352.3 4940.8 4066.3 3381.5]
+     mnTouched: [190.02 186.99 278.61 280.16 268.78]
+    mnTouchedH: [134.01 132.41 224.22 225.74 216.69]
+    tExpansion: [682868782 626041634 642565266 639277481 630443876]
+
+
+s20max = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+       mSubopt: [22.348 21.258 22.026 20.72 20.369]
+     maxSubopt: [6645.4 6226.6 3254.4 2496.4 3158.7]
+     mnTouched: [190.57 275.78 283.13 264.39 265.09]
+    mnTouchedH: [135.04 221.77 228.04 212.77 213.72]
+    tExpansion: [840019960 873346755 831436121 865860471 900712812]
+
+
+a5 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [25512347 27155576 27163657 27090654 25630221]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [6140 2504.1 3212.1 3652.4 4743.5]
+                 gMaxSubopt2: [3527.9 1254.4 3655 6041.8 3130.2]
+                 gMaxSubopt3: [4467.3 3238.8 3392.9 5455.8 5700]
+                        gST1: [491.51 174.24 182.95 288.36 307.09]
+                        gST2: [459.7 173.43 180.43 183.66 309.07]
+                        gST3: [479.34 177.69 185.11 186.54 310.03]
+                       gSTH1: [523.45 123.11 129.5 325.84 247.56]
+                       gSTH2: [489.61 122.54 127.72 129.94 249.08]
+                       gSTH3: [510.51 125.63 131.04 131.9 249.89]
+    gSuboptByFinalTrialCount: [29.047 20.894 21.745 21.517 23.823]
+          gSuboptByFoodValue: [28.051 20.609 21.129 21.138 23.755]
+           gSuboptByNumTrial: [29.784 20.742 21.445 36.018 23.471]
+
+
+a6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [250775367 249085927 249425937 254495388 263831500]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [3595.6 4129.7 7323.6 2930.9 3545.6]
+                 gMaxSubopt2: [2570.4 3773.7 2339.7 4603.5 2646]
+                 gMaxSubopt3: [2143 3916.3 3608.4 3668.4 3787]
+                        gST1: [298.17 319.44 183.74 177.26 274.8]
+                        gST2: [166.29 286.81 171.52 176.15 273.58]
+                        gST3: [165.63 276.84 170.51 178.46 274.34]
+                       gSTH1: [337.01 257.42 130.14 125.65 221.47]
+                       gSTH2: [117.99 231.06 121.62 124.86 220.51]
+                       gSTH3: [117.47 223.09 120.92 126.47 221.13]
+    gSuboptByFinalTrialCount: [19.232 21.335 19.647 20.455 20.743]
+          gSuboptByFoodValue: [19.183 22.439 19.901 20.159 20.683]
+           gSuboptByNumTrial: [36.829 24.43 21.535 20.311 20.78]
+
+
+a2x6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [507014029 499049558 506195843]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  []  []}
+                 gMaxSubopt1: [3690 2580.4 3448.2]
+                 gMaxSubopt2: [5345.5 5092.3 9310.8]
+                 gMaxSubopt3: [4177.1 3261.1 4897]
+                        gST1: [185.33 179.41 285.38]
+                        gST2: [191.41 180.07 288.18]
+                        gST3: [185.38 180.6 278.87]
+                       gSTH1: [131.22 126.89 229.91]
+                       gSTH2: [135.57 127.41 232.19]
+                       gSTH3: [131.26 127.73 224.68]
+    gSuboptByFinalTrialCount: [21.768 21.167 21.679]
+          gSuboptByFoodValue: [22.574 21.123 22.583]
+           gSuboptByNumTrial: [21.743 21.039 22.34]
+
+
+a7 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [2.4401e+09 2.4341e+09 2.469e+09 1.9441e+09 2.4538e+09]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]  [1×1 struct]}
+                 gMaxSubopt1: [4003.2 4513.4 5401.5 5665.7 13248]
+                 gMaxSubopt2: [3981.6 3003.5 3880 4774.3 4133.5]
+                 gMaxSubopt3: [4071.3 2834.4 2332 5574.6 5273.8]
+                        gST1: [275.77 186.02 187.61 220.87 247.29]
+                        gST2: [432.05 173.41 188.37 243.97 184.14]
+                        gST3: [278.29 270.21 178.05 277.35 242.32]
+                       gSTH1: [222.1 131.63 133.19 249.73 279.47]
+                       gSTH2: [460.27 122.97 133.51 275.8 130.23]
+                       gSTH3: [224.1 217.81 126.1 223.32 273.88]
+    gSuboptByFinalTrialCount: [21.246 20.6 20.461 21.727 29.388]
+          gSuboptByFoodValue: [26.558 20.09 22.075 29.691 21.626]
+           gSuboptByNumTrial: [21.032 21.838 22.856 27.033 29.994]
+
+a2x6
+
+a2x6 = 
+
+  <a href="matlab:helpPopup struct" style="font-weight:bold">struct</a> with fields:
+
+                    gExpanse: [507014029 499049558 506195843]
+                       gGene: {[1×1 struct]  [1×1 struct]  [1×1 struct]  []  []}
+                 gMaxSubopt1: [3690 2580.4 3448.2]
+                 gMaxSubopt2: [5345.5 5092.3 9310.8]
+                 gMaxSubopt3: [4177.1 3261.1 4897]
+                        gST1: [185.33 179.41 285.38]
+                        gST2: [191.41 180.07 288.18]
+                        gST3: [185.38 180.6 278.87]
+                       gSTH1: [131.22 126.89 229.91]
+                       gSTH2: [135.57 127.41 232.19]
+                       gSTH3: [131.26 127.73 224.68]
+    gSuboptByFinalTrialCount: [21.768 21.167 21.679]
+          gSuboptByFoodValue: [22.574 21.123 22.583]
+           gSuboptByNumTrial: [21.743 21.039 22.34]
+
+experiments

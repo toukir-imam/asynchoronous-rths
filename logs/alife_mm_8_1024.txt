@@ -1,0 +1,11 @@
+alife.m |   03-Jan-2018 03:53:08
+
+Scenario scenarios/mm_8_1024.mat
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+Unable to read file
+'data/alifeProblemPrep_mm_8_1024_100.mat'. No such file
+or directory.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('alife', '/home/toukir/Dropbox/b6/alife.m', 80)" style="font-weight:bold">alife</a> (<a href="matlab: opentoline('/home/toukir/Dropbox/b6/alife.m',80,0)">line 80</a>)
+load(sprintf('data/alifeProblemPrep_%s_%d.mat',sName,targetNumProblems),'pFound','pFoundH','pFoundHS');} 
+alife

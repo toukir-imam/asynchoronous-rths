@@ -1,0 +1,2199 @@
+
+wins =
+
+     0
+
+
+subopts =
+
+   NaN
+
+
+wins =
+
+     0
+
+
+subopts =
+
+   NaN
+
+
+wins =
+
+     0
+
+
+subopts =
+
+   22.1920
+
+
+wins =
+
+     0     0
+
+
+subopts =
+
+   22.1920   34.6340
+
+
+wins =
+
+     0     0     0
+
+
+subopts =
+
+   22.1920   34.6340   21.5257
+
+
+wins =
+
+     0     0     0     0
+
+
+subopts =
+
+   22.1920   34.6340   21.5257   49.9695
+
+
+wins =
+
+     0     0     0     0     0
+
+
+subopts =
+
+   22.1920   34.6340   21.5257   49.9695   21.0838
+
+
+wins =
+
+     0     0     0     0     0     0
+
+
+subopts =
+
+   22.1920   34.6340   21.5257   49.9695   21.0838   20.2944
+
+
+wins =
+
+     0     0     0     0     0     0     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   22.1920   34.6340   21.5257   49.9695   21.0838   20.2944
+
+  Column 7
+
+   20.7495
+
+
+wins =
+
+     0     0     0     0     0     0     0     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   22.1920   34.6340   21.5257   49.9695   21.0838   20.2944
+
+  Columns 7 through 8
+
+   20.7495   22.0275
+
+
+wins =
+
+     0     0     0     0     0     0     0     0     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   22.1920   34.6340   21.5257   49.9695   21.0838   20.2944
+
+  Columns 7 through 9
+
+   20.7495   22.0275   37.3141
+
+
+wins =
+
+     0     0     0     0     0     0     0     0     0     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   22.1920   34.6340   21.5257   49.9695   21.0838   20.2944
+
+  Columns 7 through 10
+
+   20.7495   22.0275   37.3141   21.3837
+
+
+wins =
+
+     0
+
+
+subopts =
+
+   19.8680
+
+
+wins =
+
+     0
+
+
+subopts =
+
+   NaN
+
+
+wins =
+
+     0     0
+
+
+subopts =
+
+   NaN   NaN
+
+
+wins =
+
+     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN
+
+
+wins =
+
+     0     0     0     2
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN
+
+
+wins =
+
+     0     0     0     2     1
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN
+
+
+wins =
+
+     0     0     0     2     1     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins =
+
+     0     0     0     2     1     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins =
+
+  Columns 1 through 7
+
+     0     0     0     2     1     0     0
+
+  Column 8
+
+     0
+
+
+subopts =
+
+  Columns 1 through 7
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Column 8
+
+   NaN
+
+
+wins =
+
+  Columns 1 through 7
+
+     0     0     0     2     1     0     0
+
+  Columns 8 through 9
+
+     0     0
+
+
+subopts =
+
+  Columns 1 through 7
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 8 through 9
+
+   NaN   NaN
+
+
+wins =
+
+  Columns 1 through 7
+
+     0     0     0     2     1     0     0
+
+  Columns 8 through 10
+
+     0     0     0
+
+
+subopts =
+
+  Columns 1 through 7
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 8 through 10
+
+   NaN   NaN   NaN
+
+
+wins =
+
+     0
+
+
+subopts =
+
+   NaN
+
+
+wins =
+
+     0
+
+
+subopts =
+
+   NaN
+
+
+wins =
+
+     0     0
+
+
+subopts =
+
+   NaN   NaN
+
+
+wins =
+
+     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN
+
+
+wins =
+
+     0     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN
+
+
+wins =
+
+     0     0     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN
+
+
+wins =
+
+     0     0     0     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins =
+
+  Columns 1 through 6
+
+     0     0     0     0     0     0
+
+  Column 7
+
+     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Column 7
+
+   NaN
+
+
+wins =
+
+  Columns 1 through 6
+
+     0     0     0     0     0     0
+
+  Columns 7 through 8
+
+     0     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 7 through 8
+
+   NaN   NaN
+
+
+wins =
+
+  Columns 1 through 6
+
+     0     0     0     0     0     0
+
+  Columns 7 through 9
+
+     0     0     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 7 through 9
+
+   NaN   NaN   NaN
+
+
+wins =
+
+  Columns 1 through 6
+
+     0     0     0     0     0     0
+
+  Columns 7 through 10
+
+     0     0     0     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 7 through 10
+
+   NaN   NaN   NaN   NaN
+
+
+wins =
+
+     0
+
+
+subopts =
+
+   NaN
+
+
+wins =
+
+     0     0
+
+
+subopts =
+
+   NaN   NaN
+
+
+wins =
+
+     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN
+
+
+wins =
+
+     0     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN
+
+
+wins =
+
+     0     0     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN
+
+
+wins =
+
+     0     0     0     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins =
+
+  Columns 1 through 6
+
+     0     0     0     0     0     0
+
+  Column 7
+
+     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Column 7
+
+   NaN
+
+
+wins =
+
+  Columns 1 through 6
+
+     0     0     0     0     0     0
+
+  Columns 7 through 8
+
+     0     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 7 through 8
+
+   NaN   NaN
+
+
+wins =
+
+  Columns 1 through 6
+
+     0     0     0     0     0     0
+
+  Columns 7 through 9
+
+     0     0     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 7 through 9
+
+   NaN   NaN   NaN
+
+
+wins =
+
+  Columns 1 through 6
+
+     0     0     0     0     0     0
+
+  Columns 7 through 10
+
+     0     0     0     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 7 through 10
+
+   NaN   NaN   NaN   NaN
+
+
+wins =
+
+     1
+
+
+subopts =
+
+   NaN
+
+
+wins =
+
+     1     0
+
+
+subopts =
+
+   NaN   NaN
+
+
+wins =
+
+     1     0     2
+
+
+subopts =
+
+   NaN   NaN   NaN
+
+
+wins =
+
+     1     0     2     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN
+
+
+wins =
+
+     1     0     2     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN
+
+
+wins =
+
+     1     0     2     0     0     1
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins =
+
+  Columns 1 through 6
+
+     1     0     2     0     0     1
+
+  Column 7
+
+     1
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Column 7
+
+   NaN
+
+
+wins =
+
+  Columns 1 through 6
+
+     1     0     2     0     0     1
+
+  Columns 7 through 8
+
+     1     1
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 7 through 8
+
+   NaN   NaN
+
+
+wins =
+
+  Columns 1 through 6
+
+     1     0     2     0     0     1
+
+  Columns 7 through 9
+
+     1     1     1
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 7 through 9
+
+   NaN   NaN   NaN
+
+
+wins =
+
+  Columns 1 through 6
+
+     1     0     2     0     0     1
+
+  Columns 7 through 10
+
+     1     1     1     1
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 7 through 10
+
+   NaN   NaN   NaN   NaN
+
+
+wins =
+
+     1
+
+
+subopts =
+
+   NaN
+
+
+wins =
+
+     1     0
+
+
+subopts =
+
+   NaN   NaN
+
+
+wins =
+
+     1     0     1
+
+
+subopts =
+
+   NaN   NaN   NaN
+
+
+wins =
+
+     1     0     1     1
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN
+
+
+wins =
+
+     1     0     1     1     2
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN
+
+
+wins =
+
+     1     0     1     1     2     1
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins =
+
+  Columns 1 through 6
+
+     1     0     1     1     2     1
+
+  Column 7
+
+     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Column 7
+
+   NaN
+
+
+wins =
+
+  Columns 1 through 6
+
+     1     0     1     1     2     1
+
+  Columns 7 through 8
+
+     0     2
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 7 through 8
+
+   NaN   NaN
+
+
+wins =
+
+  Columns 1 through 6
+
+     1     0     1     1     2     1
+
+  Columns 7 through 9
+
+     0     2     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 7 through 9
+
+   NaN   NaN   NaN
+
+
+wins =
+
+  Columns 1 through 6
+
+     1     0     1     1     2     1
+
+  Columns 7 through 10
+
+     0     2     0     1
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 7 through 10
+
+   NaN   NaN   NaN   NaN
+
+{Undefined function or variable
+'wins'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('asyncEvolutionScript_2', '/home/toukir/ualberta/heuristic/b6/asyncEvolutionScript_2.m', 90)" style="font-weight:bold">asyncEvolutionScript_2</a> (<a href="matlab: opentoline('/home/toukir/ualberta/heuristic/b6/asyncEvolutionScript_2.m',90,0)">line
+90</a>)
+wins
+} 
+opentoline('/home/toukir/ualberta/heuristic/b6/asyncEvolutionScript_2.m',90,0)
+asyncEvolutionScript_2
+
+wins1 =
+
+     0     0
+
+
+wins2 =
+
+     0     0
+
+
+wins3 =
+
+     0     3
+
+
+subopts =
+
+   NaN
+
+
+wins1 =
+
+     0     0     0     1
+
+
+wins2 =
+
+     0     0     0     2
+
+
+wins3 =
+
+     0     3     0     3
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+     0     0     0     1     0     1
+
+
+wins2 =
+
+     0     0     0     2     0     2
+
+
+wins3 =
+
+     0     3     0     3     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+     0     0     0     1     0     1     0     0
+
+
+wins2 =
+
+     0     0     0     2     0     2     0     2
+
+
+wins3 =
+
+     0     3     0     3     0     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+     0     0     0     1     0     1     0     0     0     0
+
+
+wins2 =
+
+     0     0     0     2     0     2     0     2     0     0
+
+
+wins3 =
+
+     0     3     0     3     0     0     0     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+  Columns 1 through 11
+
+     0     0     0     1     0     1     0     0     0     0     0
+
+  Column 12
+
+     0
+
+
+wins2 =
+
+  Columns 1 through 11
+
+     0     0     0     2     0     2     0     2     0     0     0
+
+  Column 12
+
+     0
+
+
+wins3 =
+
+  Columns 1 through 11
+
+     0     3     0     3     0     0     0     0     0     0     0
+
+  Column 12
+
+     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+  Columns 1 through 11
+
+     0     0     0     1     0     1     0     0     0     0     0
+
+  Columns 12 through 14
+
+     0     0     1
+
+
+wins2 =
+
+  Columns 1 through 11
+
+     0     0     0     2     0     2     0     2     0     0     0
+
+  Columns 12 through 14
+
+     0     0     2
+
+
+wins3 =
+
+  Columns 1 through 11
+
+     0     3     0     3     0     0     0     0     0     0     0
+
+  Columns 12 through 14
+
+     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+  Columns 1 through 14
+
+     0     0     0     1     0     1     0     0     0     0     0     0     0     1
+
+  Columns 15 through 16
+
+     0     0
+
+
+wins2 =
+
+  Columns 1 through 14
+
+     0     0     0     2     0     2     0     2     0     0     0     0     0     2
+
+  Columns 15 through 16
+
+     0     2
+
+
+wins3 =
+
+  Columns 1 through 14
+
+     0     3     0     3     0     0     0     0     0     0     0     0     0     0
+
+  Columns 15 through 16
+
+     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+  Columns 1 through 14
+
+     0     0     0     1     0     1     0     0     0     0     0     0     0     1
+
+  Columns 15 through 18
+
+     0     0     0     1
+
+
+wins2 =
+
+  Columns 1 through 14
+
+     0     0     0     2     0     2     0     2     0     0     0     0     0     2
+
+  Columns 15 through 18
+
+     0     2     0     2
+
+
+wins3 =
+
+  Columns 1 through 14
+
+     0     3     0     3     0     0     0     0     0     0     0     0     0     0
+
+  Columns 15 through 18
+
+     0     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+  Columns 1 through 14
+
+     0     0     0     1     0     1     0     0     0     0     0     0     0     1
+
+  Columns 15 through 20
+
+     0     0     0     1     0     0
+
+
+wins2 =
+
+  Columns 1 through 14
+
+     0     0     0     2     0     2     0     2     0     0     0     0     0     2
+
+  Columns 15 through 20
+
+     0     2     0     2     0     2
+
+
+wins3 =
+
+  Columns 1 through 14
+
+     0     3     0     3     0     0     0     0     0     0     0     0     0     0
+
+  Columns 15 through 20
+
+     0     0     0     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+     1
+
+
+wins2 =
+
+     2
+
+
+wins3 =
+
+     0
+
+
+subopts =
+
+   NaN   NaN
+
+
+wins1 =
+
+     1     1
+
+
+wins2 =
+
+     2     0
+
+
+wins3 =
+
+     0     3
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+     1     1     1
+
+
+wins2 =
+
+     2     0     2
+
+
+wins3 =
+
+     0     3     3
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+     1     1     1     0
+
+
+wins2 =
+
+     2     0     2     2
+
+
+wins3 =
+
+     0     3     3     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+     1     1     1     0     1
+
+
+wins2 =
+
+     2     0     2     2     2
+
+
+wins3 =
+
+     0     3     3     0     0
+
+
+subopts =
+
+  Columns 1 through 9
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Column 10
+
+   NaN
+
+
+wins1 =
+
+     1     1     1     0     1     0
+
+
+wins2 =
+
+     2     0     2     2     2     0
+
+
+wins3 =
+
+     0     3     3     0     0     0
+
+
+subopts =
+
+  Columns 1 through 9
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Column 10
+
+   NaN
+
+
+wins1 =
+
+     1     1     1     0     1     0     0
+
+
+wins2 =
+
+     2     0     2     2     2     0     0
+
+
+wins3 =
+
+     0     3     3     0     0     0     0
+
+
+subopts =
+
+  Columns 1 through 9
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Column 10
+
+   NaN
+
+
+wins1 =
+
+     1     1     1     0     1     0     0     1
+
+
+wins2 =
+
+     2     0     2     2     2     0     0     2
+
+
+wins3 =
+
+     0     3     3     0     0     0     0     0
+
+
+subopts =
+
+  Columns 1 through 9
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 10 through 12
+
+   NaN   NaN   NaN
+
+
+wins1 =
+
+     1     1     1     0     1     0     0     1     0
+
+
+wins2 =
+
+     2     0     2     2     2     0     0     2     0
+
+
+wins3 =
+
+     0     3     3     0     0     0     0     0     0
+
+
+subopts =
+
+  Columns 1 through 9
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 10 through 12
+
+   NaN   NaN   NaN
+
+
+wins1 =
+
+  Columns 1 through 9
+
+     1     1     1     0     1     0     0     1     0
+
+  Column 10
+
+     1
+
+
+wins2 =
+
+  Columns 1 through 9
+
+     2     0     2     2     2     0     0     2     0
+
+  Column 10
+
+     0
+
+
+wins3 =
+
+  Columns 1 through 9
+
+     0     3     3     0     0     0     0     0     0
+
+  Column 10
+
+     0
+
+
+subopts =
+
+  Columns 1 through 9
+
+   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 10 through 13
+
+   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+     1
+
+
+wins2 =
+
+     2
+
+
+wins3 =
+
+     3
+
+
+subopts =
+
+   NaN   NaN   NaN
+
+
+wins1 =
+
+     1     0
+
+
+wins2 =
+
+     2     0
+
+
+wins3 =
+
+     3     0
+
+
+subopts =
+
+   NaN   NaN   NaN
+
+
+wins1 =
+
+     1     0     0
+
+
+wins2 =
+
+     2     0     2
+
+
+wins3 =
+
+     3     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+     1     0     0     0
+
+
+wins2 =
+
+     2     0     2     0
+
+
+wins3 =
+
+     3     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+     0
+
+
+wins2 =
+
+     0
+
+
+wins3 =
+
+     0
+
+
+subopts =
+
+     []
+
+
+wins1 =
+
+     0     0
+
+
+wins2 =
+
+     0     0
+
+
+wins3 =
+
+     0     0
+
+
+subopts =
+
+     []
+
+
+wins1 =
+
+     0     0     1
+
+
+wins2 =
+
+     0     0     0
+
+
+wins3 =
+
+     0     0     0
+
+
+subopts =
+
+   NaN
+
+
+wins1 =
+
+     0     0     1     0
+
+
+wins2 =
+
+     0     0     0     0
+
+
+wins3 =
+
+     0     0     0     0
+
+
+subopts =
+
+   NaN
+
+
+wins1 =
+
+     0     0     1     0     0
+
+
+wins2 =
+
+     0     0     0     0     0
+
+
+wins3 =
+
+     0     0     0     0     0
+
+
+subopts =
+
+   NaN
+
+
+wins1 =
+
+     0     0     1     0     0     0
+
+
+wins2 =
+
+     0     0     0     0     0     0
+
+
+wins3 =
+
+     0     0     0     0     0     0
+
+
+subopts =
+
+   NaN
+
+
+wins1 =
+
+     0     0     1     0     0     0     0
+
+
+wins2 =
+
+     0     0     0     0     0     0     0
+
+
+wins3 =
+
+     0     0     0     0     0     0     0
+
+
+subopts =
+
+   NaN
+
+
+wins1 =
+
+     0     0     1     0     0     0     0     0
+
+
+wins2 =
+
+     0     0     0     0     0     0     0     0
+
+
+wins3 =
+
+     0     0     0     0     0     0     0     0
+
+
+subopts =
+
+   NaN
+
+
+wins1 =
+
+     0     0     1     0     0     0     0     0     0
+
+
+wins2 =
+
+     0     0     0     0     0     0     0     0     0
+
+
+wins3 =
+
+     0     0     0     0     0     0     0     0     0
+
+
+subopts =
+
+   NaN
+
+
+wins1 =
+
+     0     0     1     0     0     0     0     0     0     0
+
+
+wins2 =
+
+     0     0     0     0     0     0     0     0     0     0
+
+
+wins3 =
+
+     0     0     0     0     0     0     0     0     0     0
+
+
+subopts =
+
+   NaN
+
+
+wins1 =
+
+     1
+
+
+wins2 =
+
+     0
+
+
+wins3 =
+
+     0
+
+
+subopts =
+
+   NaN
+
+
+wins1 =
+
+     1     0
+
+
+wins2 =
+
+     0     2
+
+
+wins3 =
+
+     0     0
+
+
+subopts =
+
+   NaN   NaN
+
+
+wins1 =
+
+     1     0     0
+
+
+wins2 =
+
+     0     2     0
+
+
+wins3 =
+
+     0     0     0
+
+
+subopts =
+
+   NaN   NaN
+
+
+wins1 =
+
+     1     0     0     1
+
+
+wins2 =
+
+     0     2     0     0
+
+
+wins3 =
+
+     0     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN
+
+
+wins1 =
+
+     1     0     0     1     0
+
+
+wins2 =
+
+     0     2     0     0     0
+
+
+wins3 =
+
+     0     0     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN
+
+
+wins1 =
+
+     1
+
+
+wins2 =
+
+     2
+
+
+wins3 =
+
+     0
+
+
+subopts =
+
+   NaN   NaN
+
+
+wins1 =
+
+     1     1
+
+
+wins2 =
+
+     2     2
+
+
+wins3 =
+
+     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+     1     1     1
+
+
+wins2 =
+
+     2     2     2
+
+
+wins3 =
+
+     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+     1     1     1     1
+
+
+wins2 =
+
+     2     2     2     2
+
+
+wins3 =
+
+     0     0     0     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 7 through 8
+
+   NaN   NaN
+
+
+wins1 =
+
+     1     1     1     1     1
+
+
+wins2 =
+
+     2     2     2     2     2
+
+
+wins3 =
+
+     0     0     0     0     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 7 through 10
+
+   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+     1     1     1     1     1     1
+
+
+wins2 =
+
+     2     2     2     2     2     2
+
+
+wins3 =
+
+     0     0     0     0     0     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 7 through 12
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+  Columns 1 through 6
+
+     1     1     1     1     1     1
+
+  Column 7
+
+     1
+
+
+wins2 =
+
+  Columns 1 through 6
+
+     2     2     2     2     2     2
+
+  Column 7
+
+     2
+
+
+wins3 =
+
+  Columns 1 through 6
+
+     0     0     0     0     0     0
+
+  Column 7
+
+     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 7 through 12
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 13 through 14
+
+   NaN   NaN
+
+
+wins1 =
+
+  Columns 1 through 6
+
+     1     1     1     1     1     1
+
+  Columns 7 through 8
+
+     1     1
+
+
+wins2 =
+
+  Columns 1 through 6
+
+     2     2     2     2     2     2
+
+  Columns 7 through 8
+
+     2     2
+
+
+wins3 =
+
+  Columns 1 through 6
+
+     0     0     0     0     0     0
+
+  Columns 7 through 8
+
+     0     0
+
+
+subopts =
+
+  Columns 1 through 6
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 7 through 12
+
+   NaN   NaN   NaN   NaN   NaN   NaN
+
+  Columns 13 through 16
+
+   NaN   NaN   NaN   NaN
+
+
+wins1 =
+
+     1
+
+
+wins2 =
+
+     0
+
+
+wins3 =
+
+     0
+
+
+subopts =
+
+   NaN
+
+
+wins1 =
+
+     1     0
+
+
+wins2 =
+
+     0     0
+
+
+wins3 =
+
+     0     0
+
+
+subopts =
+
+   NaN
+
+
+wins1 =
+
+     1     0     1
+
+
+wins2 =
+
+     0     0     0
+
+
+wins3 =
+
+     0     0     0
+
+
+subopts =
+
+   NaN   NaN
+
+
+wins1 =
+
+     0
+
+
+wins2 =
+
+     0
+
+
+wins3 =
+
+     0
+
+
+subopts =
+
+     []
+
+
+wins1 =
+
+     0     1
+
+
+wins2 =
+
+     0     2
+
+
+wins3 =
+
+     0     0
+
+
+subopts =
+
+   NaN   NaN
+
+
+wins1 =
+
+     0     1     1
+
+
+wins2 =
+
+     0     2     0
+
+
+wins3 =
+
+     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN
+
+
+wins1 =
+
+     0     1     1     1
+
+
+wins2 =
+
+     0     2     0     2
+
+
+wins3 =
+
+     0     0     0     0
+
+
+subopts =
+
+   NaN   NaN   NaN   NaN   NaN
+

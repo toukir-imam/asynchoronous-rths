@@ -1,0 +1,1085 @@
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', 'C:\Users\toukir\Dropbox\b6\experiments.m', 11)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\experiments.m',11,0)">line 11</a>)
+} 
+experiments
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 1000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 2.88 s
+expanses = 
+ 4.576e+05
+
+Spotlight on gene : 
+evaluating on 123325 problems
+time taken for evaluation 10.1 m 
+mean Subopt: 21.352
+numSolved: 123325 / 123325
+solvedMeanSubopt: 21.352
+Spotlight on gene : 
+    3.4442    2.9252    1.6678    0.3057    0.4639    0.8021    0.3585
+
+evaluating on 123325 problems
+time taken for evaluation 18.4 m 
+mean Subopt: 38.654
+numSolved: 123325 / 123325
+solvedMeanSubopt: 38.654
+Spotlight on gene : 
+    1.7450    3.1960    2.6460    0.7243    0.3734    0.2981    0.4990
+
+evaluating on 123325 problems
+time taken for evaluation 12.0 m 
+mean Subopt: 28.253
+numSolved: 123325 / 123325
+solvedMeanSubopt: 28.253
+Final results from Experiment 1
+Total experiment time 40.6 m
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   38.6542
+
+
+gSuboptByFinalTrialCount =
+
+   28.2525
+
+
+gExpanse =
+
+      457629
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    []    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 1000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 3.48 s
+expanses = 
+ 4.605e+05
+
+Spotlight on gene : 
+evaluating on 123325 problems
+time taken for evaluation 12.5 m 
+mean Subopt: 30.975
+numSolved: 123325 / 123325
+solvedMeanSubopt: 30.975
+Spotlight on gene : 
+    2.1264    4.3641    3.3807    0.1552    0.9904    0.2871    0.4159
+
+evaluating on 123325 problems
+time taken for evaluation 10.1 m 
+mean Subopt: 21.217
+numSolved: 123325 / 123325
+solvedMeanSubopt: 21.217
+Spotlight on gene : 
+    1.6408    8.7607    5.9659    0.5582    0.6881    0.3363    0.1386
+
+evaluating on 123325 problems
+time taken for evaluation 9.9 m 
+mean Subopt: 21.105
+numSolved: 123325 / 123325
+solvedMeanSubopt: 21.105
+Final results from Experiment 1
+Total experiment time 32.6 m
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   38.6542   21.2173
+
+
+gSuboptByFinalTrialCount =
+
+   28.2525   21.1053
+
+
+gExpanse =
+
+      457629      460470
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 1000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 3.14 s
+expanses = 
+ 4.578e+05
+
+Spotlight on gene : 
+evaluating on 123325 problems
+time taken for evaluation 3.3 h 
+mean Subopt: 716.321
+numSolved: 122468 / 123325
+solvedMeanSubopt: 21.559
+Spotlight on gene : 
+    1.1842    4.5858    9.0859    0.5883    0.0426    0.8433    0.3774
+
+evaluating on 123325 problems
+time taken for evaluation 20.8 m 
+mean Subopt: 50.484
+numSolved: 123325 / 123325
+solvedMeanSubopt: 50.484
+Spotlight on gene : 
+    3.5215    8.9000    4.0461    0.6961    0.7737    0.8712    0.8007
+
+evaluating on 123325 problems
+time taken for evaluation 3.4 h 
+mean Subopt: 742.508
+numSolved: 122436 / 123325
+solvedMeanSubopt: 21.806
+Final results from Experiment 1
+Total experiment time 7.1 h
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   38.6542   21.2173   50.4843
+
+
+gSuboptByFinalTrialCount =
+
+   28.2525   21.1053  742.5079
+
+
+gExpanse =
+
+      457629      460470      457806
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    [1×1 struct]    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 1000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 3.02 s
+expanses = 
+ 4.491e+05
+
+Spotlight on gene : 
+evaluating on 123325 problems
+time taken for evaluation 11.6 m 
+mean Subopt: 20.684
+numSolved: 123325 / 123325
+solvedMeanSubopt: 20.684
+Spotlight on gene : 
+    2.4034    0.8933    3.0695    0.9967    0.7264    0.9794    0.2139
+
+evaluating on 123325 problems
+time taken for evaluation 11.4 m 
+mean Subopt: 20.607
+numSolved: 123325 / 123325
+solvedMeanSubopt: 20.607
+Spotlight on gene : 
+    2.4034    0.8933    3.0695    0.9967    0.7264    0.9794    0.2139
+
+evaluating on 123325 problems
+time taken for evaluation 11.4 m 
+mean Subopt: 20.553
+numSolved: 123325 / 123325
+solvedMeanSubopt: 20.553
+Final results from Experiment 1
+Total experiment time 34.6 m
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   38.6542   21.2173   50.4843   20.6071
+
+
+gSuboptByFinalTrialCount =
+
+   28.2525   21.1053  742.5079   20.5535
+
+
+gExpanse =
+
+      457629      460470      457806      449098
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    [1×1 struct]    [1×1 struct]    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 1000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 3.32 s
+expanses = 
+ 4.584e+05
+
+Spotlight on gene : 
+evaluating on 123325 problems
+time taken for evaluation 9.9 m 
+mean Subopt: 20.143
+numSolved: 123325 / 123325
+solvedMeanSubopt: 20.143
+Spotlight on gene : 
+    2.4455    8.9793    5.8930    0.9898    0.7810    0.0991    0.1197
+
+evaluating on 123325 problems
+time taken for evaluation 9.8 m 
+mean Subopt: 20.506
+numSolved: 123325 / 123325
+solvedMeanSubopt: 20.506
+Spotlight on gene : 
+    2.4455    8.9793    5.8930    0.9898    0.7810    0.0991    0.1197
+
+evaluating on 123325 problems
+time taken for evaluation 9.9 m 
+mean Subopt: 20.452
+numSolved: 123325 / 123325
+solvedMeanSubopt: 20.452
+Final results from Experiment 1
+Total experiment time 29.6 m
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   38.6542   21.2173   50.4843   20.6071   20.5060
+
+
+gSuboptByFinalTrialCount =
+
+   28.2525   21.1053  742.5079   20.5535   20.4522
+
+
+gExpanse =
+
+      457629      460470      457806      449098      458405
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    [1×1 struct]    [1×1 struct]    [1×1 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 10000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 18.96 s
+expanses = 
+ 3.871e+06
+
+Spotlight on gene : 
+evaluating on 123325 problems
+time taken for evaluation 9.8 m 
+mean Subopt: 19.663
+numSolved: 123325 / 123325
+solvedMeanSubopt: 19.663
+Spotlight on gene : 
+    2.8406    3.6470    5.0723    0.6117    0.5194    0.4355    0.5986
+
+evaluating on 123325 problems
+time taken for evaluation 10.0 m 
+mean Subopt: 22.265
+numSolved: 123325 / 123325
+solvedMeanSubopt: 22.265
+Spotlight on gene : 
+    3.4668    3.9184    3.1965    0.1939    0.5033    0.1334    0.0161
+
+evaluating on 123325 problems
+time taken for evaluation 9.6 m 
+mean Subopt: 19.829
+numSolved: 123325 / 123325
+solvedMeanSubopt: 19.829
+Final results from Experiment 1
+Total experiment time 29.7 m
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   22.2653
+
+
+gSuboptByFinalTrialCount =
+
+   19.8291
+
+
+gExpanse =
+
+     3870946
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    []    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 10000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 17.89 s
+expanses = 
+ 3.966e+06
+
+Spotlight on gene : 
+evaluating on 123325 problems
+time taken for evaluation 9.8 m 
+mean Subopt: 21.790
+numSolved: 123325 / 123325
+solvedMeanSubopt: 21.790
+Spotlight on gene : 
+    2.0712    2.5530    8.1193    0.2487    0.9710    0.3099    0.5708
+
+evaluating on 123325 problems
+time taken for evaluation 10.0 m 
+mean Subopt: 22.077
+numSolved: 123325 / 123325
+solvedMeanSubopt: 22.077
+Spotlight on gene : 
+    2.0712    2.5530    8.1193    0.2487    0.9710    0.3099    0.5708
+
+evaluating on 123325 problems
+time taken for evaluation 10.1 m 
+mean Subopt: 22.119
+numSolved: 123325 / 123325
+solvedMeanSubopt: 22.119
+Final results from Experiment 1
+Total experiment time 30.2 m
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   22.2653   22.0769
+
+
+gSuboptByFinalTrialCount =
+
+   19.8291   22.1193
+
+
+gExpanse =
+
+     3870946     3966115
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 10000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 15.26 s
+expanses = 
+ 3.736e+06
+
+Spotlight on gene : 
+evaluating on 123325 problems
+time taken for evaluation 10.3 m 
+mean Subopt: 22.500
+numSolved: 123325 / 123325
+solvedMeanSubopt: 22.500
+Spotlight on gene : 
+    2.6267    3.6615    4.3125    0.4957    0.5639    0.7292    0.9166
+
+evaluating on 123325 problems
+time taken for evaluation 12.1 m 
+mean Subopt: 22.869
+numSolved: 123325 / 123325
+solvedMeanSubopt: 22.869
+Spotlight on gene : 
+    2.7767    3.4434    4.3694    0.5398    0.5963    0.2321    0.8951
+
+evaluating on 123325 problems
+time taken for evaluation 10.3 m 
+mean Subopt: 22.713
+numSolved: 123325 / 123325
+solvedMeanSubopt: 22.713
+Final results from Experiment 1
+Total experiment time 33.0 m
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   22.2653   22.0769   22.8688
+
+
+gSuboptByFinalTrialCount =
+
+   19.8291   22.1193   22.7134
+
+
+gExpanse =
+
+     3870946     3966115     3736428
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    [1×1 struct]    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 10000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 21.09 s
+expanses = 
+ 4.339e+06
+
+Spotlight on gene : 
+evaluating on 123325 problems
+time taken for evaluation 10.1 m 
+mean Subopt: 22.130
+numSolved: 123325 / 123325
+solvedMeanSubopt: 22.130
+Spotlight on gene : 
+    2.2001    4.6042    4.9138    0.4181    0.7886    0.3272    0.5058
+
+evaluating on 123325 problems
+time taken for evaluation 10.0 m 
+mean Subopt: 22.323
+numSolved: 123325 / 123325
+solvedMeanSubopt: 22.323
+Spotlight on gene : 
+    2.2001    4.6042    4.9138    0.4181    0.7886    0.3272    0.5058
+
+evaluating on 123325 problems
+time taken for evaluation 10.0 m 
+mean Subopt: 22.404
+numSolved: 123325 / 123325
+solvedMeanSubopt: 22.404
+Final results from Experiment 1
+Total experiment time 30.5 m
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   22.2653   22.0769   22.8688   22.3233
+
+
+gSuboptByFinalTrialCount =
+
+   19.8291   22.1193   22.7134   22.4038
+
+
+gExpanse =
+
+     3870946     3966115     3736428     4339466
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    [1×1 struct]    [1×1 struct]    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 10000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 18.74 s
+expanses = 
+ 4.172e+06
+
+Spotlight on gene : 
+evaluating on 123325 problems
+time taken for evaluation 11.3 m 
+mean Subopt: 21.126
+numSolved: 123325 / 123325
+solvedMeanSubopt: 21.126
+Spotlight on gene : 
+    2.7589    7.6719    5.3640    0.1921    0.7243    0.9116    0.9523
+
+evaluating on 123325 problems
+time taken for evaluation 11.3 m 
+mean Subopt: 21.472
+numSolved: 123325 / 123325
+solvedMeanSubopt: 21.472
+Spotlight on gene : 
+    2.7589    7.6719    5.3640    0.1921    0.7243    0.9116    0.9523
+
+evaluating on 123325 problems
+time taken for evaluation 11.2 m 
+mean Subopt: 21.472
+numSolved: 123325 / 123325
+solvedMeanSubopt: 21.472
+Final results from Experiment 1
+Total experiment time 34.2 m
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   22.2653   22.0769   22.8688   22.3233   21.4718
+
+
+gSuboptByFinalTrialCount =
+
+   19.8291   22.1193   22.7134   22.4038   21.4724
+
+
+gExpanse =
+
+     3870946     3966115     3736428     4339466     4171721
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    [1×1 struct]    [1×1 struct]    [1×1 struct]
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 1.9 m
+expanses = 
+ 3.026e+07
+
+Spotlight on gene : 
+evaluating on 123325 problems
+time taken for evaluation 19.7 m 
+mean Subopt: 42.799
+numSolved: 123325 / 123325
+solvedMeanSubopt: 42.799
+Spotlight on gene : 
+    3.0080    7.0824    8.5749    0.3353    0.0900    0.4847    0.0403
+
+evaluating on 123325 problems
+time taken for evaluation 13.7 m 
+mean Subopt: 37.608
+numSolved: 123325 / 123325
+solvedMeanSubopt: 37.608
+Spotlight on gene : 
+    3.4622    5.4697    8.4164    0.3733    0.1165    0.5608    0.1565
+
+evaluating on 123325 problems
+time taken for evaluation 19.6 m 
+mean Subopt: 43.016
+numSolved: 123325 / 123325
+solvedMeanSubopt: 43.016
+Final results from Experiment 1
+Total experiment time 54.9 m
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   37.6079
+
+
+gSuboptByFinalTrialCount =
+
+   43.0161
+
+
+gExpanse =
+
+    30256441
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    []    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 1.9 m
+expanses = 
+ 3.031e+07
+
+Spotlight on gene : 
+evaluating on 123325 problems
+time taken for evaluation 15.8 m 
+mean Subopt: 30.501
+numSolved: 123325 / 123325
+solvedMeanSubopt: 30.501
+Spotlight on gene : 
+    3.0779    0.8162    1.4972    0.6069    0.2842    0.8912    0.5562
+
+evaluating on 123325 problems
+time taken for evaluation 16.2 m 
+mean Subopt: 31.343
+numSolved: 123325 / 123325
+solvedMeanSubopt: 31.343
+Spotlight on gene : 
+    3.1947    1.8189    1.4845    0.6181    0.3394    0.8711    0.6240
+
+evaluating on 123325 problems
+time taken for evaluation 15.8 m 
+mean Subopt: 30.922
+numSolved: 123325 / 123325
+solvedMeanSubopt: 30.922
+Final results from Experiment 1
+Total experiment time 49.8 m
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   37.6079   31.3432
+
+
+gSuboptByFinalTrialCount =
+
+   43.0161   30.9221
+
+
+gExpanse =
+
+    30256441    30307330
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    []    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 2.2 m
+expanses = 
+ 3.180e+07
+
+Spotlight on gene : 
+evaluating on 123325 problems
+time taken for evaluation 9.7 m 
+mean Subopt: 21.989
+numSolved: 123325 / 123325
+solvedMeanSubopt: 21.989
+Spotlight on gene : 
+    3.5404    6.7011    7.5725    0.4760    0.8624    0.5235    0.6514
+
+evaluating on 123325 problems
+time taken for evaluation 11.3 m 
+mean Subopt: 22.601
+numSolved: 123325 / 123325
+solvedMeanSubopt: 22.601
+Spotlight on gene : 
+    3.6035    6.5370    7.7967    0.4803    0.8718    0.4834    0.6320
+
+evaluating on 123325 problems
+time taken for evaluation 9.8 m 
+mean Subopt: 22.091
+numSolved: 123325 / 123325
+solvedMeanSubopt: 22.091
+Final results from Experiment 1
+Total experiment time 32.9 m
+gSuboptByNumTrial =
+
+     []
+
+
+gSuboptByFoodValue =
+
+   37.6079   31.3432   22.6013
+
+
+gSuboptByFinalTrialCount =
+
+   43.0161   30.9221   22.0913
+
+
+gExpanse =
+
+    30256441    30307330    31795098
+
+
+gGene =
+
+  1×5 <a href="matlab:helpPopup cell" style="font-weight:bold">cell</a> array
+
+    [1×1 struct]    [1×1 struct]    [1×1 struct]    []    []
+
+
+starting experiment 1
+
+       initialPopulation: 20
+    maxAllowedPopulation: 20
+                 geneMax: [4 10 10 1 1 1 1]
+                 geneMin: [1 0 0 0 0 0 0]
+        energyMultiplier: 5
+           mutationRate1: [0.0600 0.2000 0.2000 0.0200 0.0200 0.0200 0.0200]
+           mutationRate2: [0.0200 0.0667 0.0667 0.0067 0.0067 0.0067 0.0067]
+               eraLength: 100000
+          difficultyGrad: 0.3000
+              minSolved1: 18
+              minSolved2: 24
+                  lBound: 0
+                  uBound: 1000000
+               finalForm: 3
+               traceGene: [3 3.4235 1.2998 0.2446 1 0 0.2790]
+            numTraceGene: 0
+
+     reCombination: 1
+    multiOffspring: 1
+           tracing: 0
+
+time taken for evolution is 1.7 m
+expanses = 
+ 3.070e+07
+
+Spotlight on gene : 
+evaluating on 123325 problems
+time taken for evaluation 12.3 m 
+mean Subopt: 29.520
+numSolved: 123325 / 123325
+solvedMeanSubopt: 29.520
+Spotlight on gene : 
+    3.1687    0.9296    4.5320    0.1393    0.0414    0.2211    1.0000
+
+evaluating on 123325 problems
+time taken for evaluation 15.9 m 
+mean Subopt: 50.482
+numSolved: 123325 / 123325
+solvedMeanSubopt: 50.482
+Spotlight on gene : 
+    3.0165    6.1724    6.0732    0.6887    0.4213    0.0736    0.0928
+
+evaluating on 123325 problems
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('distcomp.remoteparfor/getCompleteIntervals', 'C:\Program Files\MATLAB\R2017a\toolbox\distcomp\distcomp\+distcomp\remoteparfor.m', 127)" style="font-weight:bold">distcomp.remoteparfor/getCompleteIntervals</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\distcomp\distcomp\+distcomp\remoteparfor.m',127,0)">line 127</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('parallel_function>distributed_execution', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\lang\parallel_function.p', 793)" style="font-weight:bold">parallel_function>distributed_execution</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\lang\parallel_function.p',793,0)">line 793</a>)
+        [tags, out] = P.getCompleteIntervals(min(thisDispatchSize, j));
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('parallel_function', 'C:\Program Files\MATLAB\R2017a\toolbox\matlab\lang\parallel_function.p', 587)" style="font-weight:bold">parallel_function</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\lang\parallel_function.p',587,0)">line 587</a>)
+        R = distributed_execution(...
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('geneEval', 'C:\Users\toukir\Dropbox\b6\geneEval.m', 16)" style="font-weight:bold">geneEval</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\geneEval.m',16,0)">line 16</a>)
+parfor n = 1:nProblems
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('evaluate', 'C:\Users\toukir\Dropbox\b6\evaluate.m', 11)" style="font-weight:bold">evaluate</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\evaluate.m',11,0)">line 11</a>)
+    [subopt, ~, solved,nTouched,nTouchedH,tTouched,tTouchedH] = geneEval(gene,problem,maps,finalNProblems,cutoff,errorRate);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('exp1', 'C:\Users\toukir\Dropbox\b6\exp1.m', 114)" style="font-weight:bold">exp1</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\exp1.m',114,0)">line 114</a>)
+            [subopts3(i),maxSubopt3(i),sT3(i),sTH3(i)] = evaluate(hmS.maps,hmS.problem,gene,123325);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('experiments', 'C:\Users\toukir\Dropbox\b6\experiments.m', 40)" style="font-weight:bold">experiments</a> (<a href="matlab: opentoline('C:\Users\toukir\Dropbox\b6\experiments.m',40,0)">line 40</a>)
+    exp1;
+} 
+experiments
